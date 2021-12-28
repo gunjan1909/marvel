@@ -69,9 +69,9 @@
 ## (HONOURABLE MENTIONS):-
 - spiderman 1,2,3  --- not on disney+ ☑️
 - the amazing spiderman 1,2  ---not on disney+ ☑️
-- spiderman into the spiderverse ☑️ -- watched on soap2day
+- spiderman into the spiderverse ☑️
 - spiderman across the spiderverse (7th October, 2022)
-- 2 venom movies ☑️-- watched on soap2day
+- 2 venom movies ☑️
 - Morbius (28 JAN 2022)
 - legends, assemble ☑️
 
