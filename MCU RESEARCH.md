@@ -38,7 +38,7 @@
 - loki s1 ✔️
 - shang chi ✔️
 - what if s1 ✔️
-- eternals ✔️
+- eternals ✔️  (12th Janyary,2022 on disney+)
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
 - morbius (28 jan 2022)  (delayed??)
