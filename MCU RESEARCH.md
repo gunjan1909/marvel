@@ -1,6 +1,6 @@
 - ☑️= watched twice or more
 - ✔️ = watched once
-
+<hr>
 ## Phase 1
 - iron man ☑️
 - The incredible hulk  --- not on disney+ ☑️
@@ -41,11 +41,11 @@
 - eternals ✔️
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
-- morbius (28 jan 2022)
+- morbius (28 jan 2022)  (delayed??)
 - dr strange in the multiverse of madness( may 6 2022)
 - thor love and thunder( july 8  2022)
 - black panther wakanda forever( nov 11 2022)
-- the marvels ( feb  2023)
+- the marvels (17 feb  2023)
 - blade(??)
 - antman quantumania (july 28 2023)
 - fantastic 4 (??)
@@ -53,7 +53,7 @@
 ## SHOWS:-
 - ms marvel
 - she hulk
-- moon knight
+- moon knight (next/upcoming)
 - secret invasion
 - iron heart
 - armor wars
@@ -65,16 +65,17 @@
 - spiderman freshman yr
 - agatha 
 - marvel zombies
-
+<hr>
 ## (HONOURABLE MENTIONS):-
+- legends, assemble ☑️ --disney+
 - spiderman 1,2,3  --- not on disney+ ☑️
 - the amazing spiderman 1,2  ---not on disney+ ☑️
 - spiderman into the spiderverse ☑️
 - spiderman across the spiderverse (7th October, 2022)
 - 2 venom movies ☑️
-- Morbius (28 JAN 2022)
-- legends, assemble ☑️
+- Morbius (28 JAN 2022)  (delayed??)
 
+<hr>
 ## MARVEL NETFLIX :-
 - Daredevil, Season 1☑️
 - Jessica Jones, Season 1 ✔️
@@ -89,7 +90,7 @@
 - Daredevil, Season 3 ✔☑️
 - The Punisher, Season 2 ☑️
 - Jessica Jones, Season 3 ✔️
-
+<hr>
 ## OTHER NON-CANON ✔️
 - Agents of SHIELD ✔️
 - Agent Carter ✔️
@@ -97,3 +98,4 @@
 - Cloak and Dagger ✔
 - Runaways ✔️
 - The Gifted 
+- Legion
