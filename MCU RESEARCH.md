@@ -65,7 +65,9 @@
 - spiderman freshman yr
 - agatha 
 - marvel zombies
+
 <hr>
+
 ## (HONOURABLE MENTIONS):-
 - legends, assemble ☑️ --disney+
 - spiderman 1,2,3  --- not on disney+ ☑️
@@ -76,6 +78,7 @@
 - Morbius (28 JAN 2022)  (delayed??)
 
 <hr>
+
 ## MARVEL NETFLIX :-
 - Daredevil, Season 1☑️
 - Jessica Jones, Season 1 ✔️
@@ -90,7 +93,9 @@
 - Daredevil, Season 3 ✔☑️
 - The Punisher, Season 2 ☑️
 - Jessica Jones, Season 3 ✔️
+
 <hr>
+
 ## OTHER NON-CANON ✔️
 - Agents of SHIELD ✔️
 - Agent Carter ✔️
