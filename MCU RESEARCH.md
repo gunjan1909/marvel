@@ -40,10 +40,10 @@
 - loki s1 ✔️
 - shang chi ✔️
 - what if s1 ✔️
-- eternals ✔️  (12th Janyary,2022 on disney+)
+- eternals ☑️ 
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
-- morbius (28 jan 2022)  (delayed??)
+- morbius (28 jan 2022)  (APRIL 1 DELAYED)
 - dr strange in the multiverse of madness( may 6 2022)
 - thor love and thunder( july 8  2022)
 - black panther wakanda forever( nov 11 2022)
@@ -77,7 +77,7 @@
 - spiderman into the spiderverse ☑️
 - spiderman across the spiderverse (7th October, 2022)
 - 2 venom movies ☑️
-- Morbius (28 JAN 2022)  (delayed??)
+- Morbius (28 JAN 2022)  (APRIL 1 DELAYED?)
 
 <hr>
 
@@ -92,7 +92,7 @@
 - Jessica Jones, Season 2 ✔️
 - Luke Cage, Season 2 ✔️
 - Iron Fist, Season 2 ✔️
-- Daredevil, Season 3 ✔☑️
+- Daredevil, Season 3 ☑️
 - The Punisher, Season 2 ☑️
 - Jessica Jones, Season 3 ✔️
 
