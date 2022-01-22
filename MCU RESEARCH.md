@@ -100,7 +100,7 @@
 <hr>
 
 ## OTHER NON-CANON ✔️
-- Agents of SHIELD ✔️
+- Agents of SHIELD ☑️
 - Agent Carter ✔️
 - Inhumans ☑️
 - Cloak and Dagger ☑️
