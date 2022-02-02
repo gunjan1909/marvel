@@ -37,7 +37,7 @@
 - wanda vision s1 ☑️
 - the falcon and the winter soldier s1 ☑️
 - black widow ☑️
-- loki s1 ✔️
+- loki s1 ☑️
 - shang chi ✔️
 - what if s1 ✔️
 - eternals ☑️ 
