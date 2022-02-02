@@ -87,12 +87,12 @@
 - Jessica Jones, Season 1 ✔️
 - Daredevil, Season 2☑️
 - Luke Cage, Season 1 ✔️
-- Iron Fist, Season 1 ✔️
+- Iron Fist, Season 1 ☑️
 - The Defenders, Limited Series ☑️
 - The Punisher, Season 1 ☑️
 - Jessica Jones, Season 2 ✔️
 - Luke Cage, Season 2 ✔️
-- Iron Fist, Season 2 ✔️
+- Iron Fist, Season 2 ☑️
 - Daredevil, Season 3 ☑️
 - The Punisher, Season 2 ☑️
 - Jessica Jones, Season 3 ✔️
