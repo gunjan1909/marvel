@@ -99,6 +99,21 @@
 
 <hr>
 
+## XMEN FRANCHISE ✔️
+- X-Men ✔️
+- X-Men 2 ✔️
+- X-Men: The Last Stand ✔️
+- X-Men: Origins Wolverine✔️
+- X-Men: First Class✔️
+- The Wolverine✔️
+- X-Men: Days of Future Past✔️
+- Deadpool✔️
+- X-Men: Apocalypse✔️
+- Logan✔️
+- Deadpool 2✔️
+- Dark Phoenix✔️
+- The New Mutants✔️
+
 ## OTHER NON-CANON ✔️
 - Agents of SHIELD ☑️
 - Agent Carter ✔️
