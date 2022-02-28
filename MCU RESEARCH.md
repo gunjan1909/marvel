@@ -44,7 +44,7 @@
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
 - moon knight (30 march 2022)
-- morbius (28 jan 2022)  (APRIL 1 DELAYED)
+- morbius (APRIL 1 DELAYED)
 - dr strange in the multiverse of madness( may 6 2022)
 - thor love and thunder( july 8  2022)
 - black panther wakanda forever( nov 11 2022)
@@ -78,7 +78,7 @@
 - spiderman into the spiderverse ☑️
 - spiderman across the spiderverse (7th October, 2022)
 - 2 venom movies ☑️
-- Morbius (28 JAN 2022)  (APRIL 1 DELAYED?)
+- Morbius (APRIL 1 DELAYED?)
 
 <hr>
 
