@@ -99,11 +99,11 @@
 
 <hr>
 
-## XMEN FRANCHISE ✔️
-- X-Men ✔️
-- X-Men 2 ✔️
-- X-Men: The Last Stand ✔️
-- X-Men: Origins Wolverine✔️
+## XMEN FRANCHISE ☑️
+- X-Men ☑️
+- X-Men 2 ☑️
+- X-Men: The Last Stand ☑️
+- X-Men: Origins Wolverine ☑️
 - X-Men: First Class✔️
 - The Wolverine✔️
 - X-Men: Days of Future Past✔️
