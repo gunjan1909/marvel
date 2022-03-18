@@ -44,8 +44,9 @@
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
 - moon knight (30 march 2022)
-- morbius (APRIL 1 DELAYED)
+- morbius (APRIL 1 2022)
 - dr strange in the multiverse of madness( may 6 2022)
+- ms marvel (june 8, 2022)
 - thor love and thunder( july 8  2022)
 - black panther wakanda forever( nov 11 2022)
 - the marvels (17 feb  2023)
@@ -53,10 +54,8 @@
 - antman quantumania (july 28 2023)
 - fantastic 4 (??)
 
-## SHOWS:-
-- ms marvel
+## SHOWS(DATE UNKNOWN, REST IN RESPECTIVE PHASES):-
 - she hulk
-- moon knight (30 march 2022)
 - secret invasion
 - iron heart
 - armor wars
@@ -78,7 +77,7 @@
 - spiderman into the spiderverse ☑️
 - spiderman across the spiderverse (7th October, 2022)
 - 2 venom movies ☑️
-- Morbius (APRIL 1 DELAYED?)
+- Morbius (APRIL 1 2022)
 
 <hr>
 
@@ -104,9 +103,9 @@
 - X-Men 2 ☑️
 - X-Men: The Last Stand ☑️
 - X-Men: Origins Wolverine ☑️
-- X-Men: First Class✔️
-- The Wolverine✔️
-- X-Men: Days of Future Past✔️
+- X-Men: First Class☑️
+- The Wolverine☑️
+- X-Men: Days of Future Past☑️
 - Deadpool✔️
 - X-Men: Apocalypse✔️
 - Logan✔️
