@@ -43,8 +43,8 @@
 - eternals ☑️ 
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
-- moon knight (30 march 2022)
-- morbius (APRIL 1 2022)
+- moon knight (30 march 2022) ✔️
+- morbius (APRIL 1 2022) ❌
 - dr strange in the multiverse of madness( may 6 2022)
 - ms marvel (june 8, 2022)
 - thor love and thunder( july 8  2022)
@@ -77,7 +77,7 @@
 - spiderman into the spiderverse ☑️
 - spiderman across the spiderverse (7th October, 2022)
 - 2 venom movies ☑️
-- Morbius (APRIL 1 2022)
+- Morbius (APRIL 1 2022) ❌
 
 <hr>
 
