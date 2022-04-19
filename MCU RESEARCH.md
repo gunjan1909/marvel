@@ -106,8 +106,8 @@
 - X-Men: First Class☑️
 - The Wolverine☑️
 - X-Men: Days of Future Past☑️
-- Deadpool✔️
-- X-Men: Apocalypse✔️
+- Deadpool☑️
+- X-Men: Apocalypse☑️
 - Logan✔️
 - Deadpool 2✔️
 - Dark Phoenix✔️
