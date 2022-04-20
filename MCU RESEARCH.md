@@ -30,7 +30,7 @@
 - antman and the wasp ☑️
 - captain marvel ☑️
 - avengers endgame ☑️
-- <hr/>
+<hr/>
 - spiderman far from home : not on disney+ ☑️
 
 ## Phase 4
