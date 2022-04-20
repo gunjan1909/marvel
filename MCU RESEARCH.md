@@ -43,9 +43,9 @@
 - eternals ☑️ 
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
-- moon knight (30 march 2022) ✔️
+- moon knight (30 march 2022) ☑️
 - morbius (APRIL 1 2022) ❌
-- dr strange in the multiverse of madness( may 6 2022)
+- dr strange in the multiverse of madness( may 6 2022)✔️
 - ms marvel (june 8, 2022)
 - thor love and thunder( july 8  2022)
 - black panther wakanda forever( nov 11 2022)
