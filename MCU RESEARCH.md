@@ -75,13 +75,17 @@
 - spiderman 1,2,3  --- not on disney+ ☑️
 - the amazing spiderman 1,2  ---not on disney+ ☑️
 - spiderman into the spiderverse ☑️
-- spiderman across the spiderverse (7th October, 2022)
 - 2 venom movies ☑️
 - Morbius (APRIL 1 2022) ❌
+- Spiderman across the spiderverse part1 (2nd June, 2023)(DELAYED)
+- Spiderman across the spiderverse part2 (29th March,2024)(DELAYED)
+- Madame web (7th July, 2023)
+- Kraven the hunter (13th Jan, 2023)
+- Silk (unknown)
 
 <hr>
 
-## MARVEL NETFLIX :-
+## MARVEL NETFLIX ✔️
 - Daredevil, Season 1☑️
 - Jessica Jones, Season 1 ✔️
 - Daredevil, Season 2☑️
@@ -108,10 +112,10 @@
 - X-Men: Days of Future Past☑️
 - Deadpool☑️
 - X-Men: Apocalypse☑️
-- Logan✔️
-- Deadpool 2✔️
-- Dark Phoenix✔️
-- The New Mutants✔️
+- Logan☑️
+- Deadpool 2☑️
+- Dark Phoenix☑️
+- The New Mutants☑️
 
 ## OTHER NON-CANON ✔️
 - Agents of SHIELD ☑️
