@@ -38,8 +38,8 @@
 - the falcon and the winter soldier s1 ☑️
 - black widow ☑️
 - loki s1 ☑️
-- shang chi ✔️
-- what if s1 ✔️
+- shang chi ☑️
+- what if s1 ☑️
 - eternals ☑️ 
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
