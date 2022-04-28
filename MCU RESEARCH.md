@@ -78,7 +78,7 @@
 - 2 venom movies ☑️
 - Morbius (APRIL 1 2022) ❌
 - Spiderman across the spiderverse part1 (2nd June, 2023)(DELAYED)
-- Spiderman across the spiderverse part2 (29th March,2024)(DELAYED)
+- Spiderman beyond the spiderverse part2 (29th March,2024)(DELAYED)
 - Madame web (7th July, 2023)
 - Kraven the hunter (13th Jan, 2023)
 - Silk (unknown)
