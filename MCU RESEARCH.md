@@ -1,7 +1,4 @@
-- ☑️= watched twice or more
-- ✔️ = watched once
-
-<hr>
+MARVEL CINEMATIC MULTIVERSE
 
 ## Phase 1
 - iron man ☑️
@@ -125,3 +122,7 @@
 - Runaways ✔️
 - The Gifted 
 - Legion
+
+
+- ✔️ = Watched atleast once
+- ☑️ = Watched atleast twice
