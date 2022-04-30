@@ -46,9 +46,9 @@ MARVEL CINEMATIC MULTIVERSE
 - ms marvel (june 8, 2022)
 - thor love and thunder( july 8  2022)
 - black panther wakanda forever( nov 11 2022)
-- the marvels (17 feb  2023)
+- the marvels (28 july  2023)(SWITCHED WITH ANTMAN 3)
 - blade(??)
-- antman quantumania (july 28 2023)
+- antman quantumania (17 feb 2023)(SWITCHED WITH THE MARVELS)
 - fantastic 4 (??)
 
 ## SHOWS(DATE UNKNOWN, REST IN RESPECTIVE PHASES):-
