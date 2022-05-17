@@ -61,7 +61,7 @@
 - xmen 97
 - what if s2
 - echo
-- spiderman freshman yr
+- spiderman freshman year
 - agatha 
 - marvel zombies
 
