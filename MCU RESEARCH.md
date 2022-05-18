@@ -45,6 +45,7 @@
 - dr strange in the multiverse of madness( may 6 2022)☑️
 - ms marvel (june 8, 2022)
 - thor love and thunder( july 8  2022)
+- she hulk (august 17 2022)
 - black panther wakanda forever( nov 11 2022)
 - the marvels (28 july  2023)(SWITCHED WITH ANTMAN 3)
 - blade(??)
@@ -52,7 +53,6 @@
 - fantastic 4 (??)
 
 ## SHOWS(DATE UNKNOWN, REST IN RESPECTIVE PHASES):-
-- she hulk
 - secret invasion
 - iron heart
 - armor wars
