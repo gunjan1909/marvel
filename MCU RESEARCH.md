@@ -2,7 +2,7 @@
 
 ## Phase 1
 - iron man ☑️
-- The incredible hulk  --- not on disney+ ☑️
+- The incredible hulk  ☑️
 - iron man 2 ☑️
 - thor ☑️
 - ca tfa ☑️
@@ -20,7 +20,7 @@
 - civil war ☑️
 - doctor strange ☑️
 - gotg vol2 ☑️
-- spidey homecoming   --- not on disney+ ☑️
+- spidey homecoming ☑️
 - thor ragnarok ☑️
 - black panther ☑️
 - infinity war ☑️
@@ -28,7 +28,7 @@
 - captain marvel ☑️
 - avengers endgame ☑️
 - <hr/>
-- spiderman far from home : not on disney+ ☑️
+- spiderman far from home ☑️
 
 ## Phase 4
 - wanda vision s1 ☑️
@@ -70,9 +70,9 @@
 <hr>
 
 ## (HONOURABLE MENTIONS):-
-- legends, assemble ☑️ --disney+
-- spiderman 1,2,3  --- not on disney+ ☑️
-- the amazing spiderman 1,2  ---not on disney+ ☑️
+- legends, assemble ☑️
+- spiderman 1,2,3 ☑️
+- the amazing spiderman 1,2  ☑️
 - spiderman into the spiderverse ☑️
 - 2 venom movies ☑️
 - Morbius (APRIL 1 2022) ❌
@@ -85,7 +85,7 @@
 
 <hr>
 
-## MARVEL NETFLIX ✔️
+## MARVEL NETFLIX(CURRENTLY DISNEY+) ✔️
 - Daredevil, Season 1☑️
 - Jessica Jones, Season 1 ✔️
 - Daredevil, Season 2☑️
@@ -102,7 +102,7 @@
 
 <hr>
 
-## XMEN FRANCHISE ☑️
+## FOX XMEN FRANCHISE ☑️
 - X-Men ☑️
 - X-Men 2 ☑️
 - X-Men: The Last Stand ☑️
@@ -117,7 +117,7 @@
 - Dark Phoenix☑️
 - The New Mutants☑️
 
-## OTHER NON-CANON ✔️
+## OTHERS NON-CANON ✔️
 - Agents of SHIELD ☑️
 - Agent Carter ✔️
 - Inhumans ☑️
