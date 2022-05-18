@@ -78,6 +78,7 @@
 - Spiderman beyond the spiderverse part2 (29th March,2024)(DELAYED)
 - Madame web (7th July, 2023)
 - Kraven the hunter (13th Jan, 2023)
+- El muerto (12th Jan,2024)
 - Silk (unknown)
 
 <hr>
