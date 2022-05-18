@@ -36,7 +36,7 @@
 - black widow ☑️
 - loki s1 ☑️
 - shang chi ☑️
-- what if s1 ☑️
+- what if...? s1 ☑️
 - eternals ☑️ 
 - hawkeye( 24th nov 2021) ✔️
 - spiderman no way home (16 dec 2021) ☑️ 
@@ -59,12 +59,13 @@
 - gotg holiday special
 - i am groot
 - xmen 97
-- what if s2
+- what if...? s2
 - echo
 - spiderman freshman year
 - agatha 
 - marvel zombies
 - warewolf by night
+- loki s2
 
 <hr>
 
@@ -128,3 +129,4 @@
 
 - ✔️ = Watched atleast once
 - ☑️ = Watched atleast twice
+- ❌ = Not watched yet
