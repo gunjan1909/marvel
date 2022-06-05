@@ -45,6 +45,7 @@
 - dr strange in the multiverse of madness( may 6 2022)☑️
 - ms marvel (june 8, 2022) ☑️
 - thor love and thunder( july 8  2022)
+- i am groot (shorts) (august 10, 2022)
 - she hulk (august 17 2022)
 - black panther wakanda forever( nov 11 2022)
 - the marvels (28 july  2023)(SWITCHED WITH ANTMAN 3)
@@ -56,11 +57,10 @@
 - secret invasion
 - iron heart
 - armor wars
-- gotg holiday special
-- i am groot
+- gotg holiday special 2022
 - xmen 97
 - what if...? s2
-- echo
+- echo 2023
 - spiderman freshman year
 - agatha 
 - marvel zombies
