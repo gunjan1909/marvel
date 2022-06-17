@@ -66,6 +66,8 @@
 - marvel zombies
 - warewolf by night
 - loki s2
+- daredevil disney+
+- wonder man (unknown)
 
 <hr>
 
