@@ -44,9 +44,9 @@
 - morbius (APRIL 1 2022) 
 - dr strange in the multiverse of madness( may 6 2022)☑️
 - ms marvel (june 8, 2022) ☑️
-- thor love and thunder( july 8  2022)
+- thor love and thunder( july 8  2022)☑️
 - i am groot (shorts) (august 10, 2022)
-- she hulk (august 17 2022)
+- she hulk: attorney at law (august 17 2022)
 - black panther wakanda forever( nov 11 2022)
 - the marvels (28 july  2023)(SWITCHED WITH ANTMAN 3)
 - blade(??)
@@ -68,10 +68,11 @@
 - loki s2
 - daredevil disney+
 - wonder man (unknown)
+- okoye/dora milaje (untitled/rumors)
 
 <hr>
 
-## (HONOURABLE MENTIONS):-
+## OTHERS(SPIDERVERSE/ SONYVERSE):-
 - disney marvel's legends, assemble ☑️
 - spiderman 1,2,3 ☑️
 - the amazing spiderman 1,2  ☑️
@@ -81,14 +82,14 @@
 - Morbius (APRIL 1 2022)
 - Spiderman across the spiderverse part1 (2nd June, 2023)(DELAYED)
 - Spiderman beyond the spiderverse part2 (29th March,2024)(DELAYED)
-- Madame web (7th July, 2023)
+- Madame web (6th October, 2023)(DELAYED)
 - Kraven the hunter (13th Jan, 2023)
 - El muerto (12th Jan,2024)
 - Silk (unknown)
 
 <hr>
 
-## MARVEL NETFLIX(CURRENTLY DISNEY+)
+## DEFENDERS SERIES(CURRENTLY DISNEY+, PREVIOUSLY NETFLIX)
 - Daredevil, Season 1☑️
 - Jessica Jones, Season 1 ☑️
 - Daredevil, Season 2☑️
@@ -120,7 +121,7 @@
 - Dark Phoenix☑️
 - The New Mutants☑️
 
-## OTHERS NON-CANON 
+## OTHERS (NON CANON YET) 
 - Agents of SHIELD ☑️
 - Agent Carter ☑️
 - Inhumans ☑️
