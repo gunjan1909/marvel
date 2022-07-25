@@ -162,3 +162,11 @@
 - Runaways
 - The Gifted
 - Legion
+
+## OTHER MOVIES
+
+- Fantastic 4 (2005)
+- Fantastic 4: Rise of Silver surfer (2007)
+- Fantastic 4 (2015)
+- Ghost Rider (2007)
+- Ghost Rider: Spirit of Vengeance (2011)
