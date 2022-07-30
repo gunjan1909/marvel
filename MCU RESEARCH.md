@@ -95,8 +95,9 @@
 - spiderman sophomore year
 - warewolf by night (October 2022)
 - wonder man (unknown)
-- midnight angels/dora milaje (untitled/rumors)
+- midnight angels/dora milaje/okoye (untitled/rumors)
 - Deadpool 3 (unknown)
+- Nova (unknown)
 
 <hr>
 
