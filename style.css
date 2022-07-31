@@ -10,26 +10,90 @@
 
 body {
   background-color: aliceblue;
+  /* scroll-behavior: none; */
+  height: 100vh;
+  /* overflow: hidden; */
+  background: url(https://wallpaperaccess.com/full/14358.jpg) no-repeat center
+    center fixed;
+  background: url(https://wallpaperaccess.com/full/1225736.jpg) no-repeat center
+    center fixed;
+  background-size: cover;
+  color: black;
+}
+div.container {
+  height: 80vh;
+  overflow: auto;
+  width: 100%;
+  margin: 3rem auto;
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(2.5px);
+  -webkit-backdrop-filter: blur(2.5px);
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
 }
 /* SCROLLBAR */
 
 /* width */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: inherit;
+  background: transparent;
   background-clip: padding-box;
-  padding: 1px !important;
+  /* padding: 1px !important; */
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #00000073;
+  background: rgba(255, 0, 0, 0.75);
   border-radius: 10px;
   background-clip: padding-box;
   padding: 1px !important;
 }
 
 /* SCROLLBAR END */
+
+hr {
+  width: 40%;
+  margin: 10vh auto;
+  border-top: 10px dotted;
+  opacity: 1;
+}
+#heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1.5rem auto;
+  /* margin: 1rem; */
+}
+
+#infinity,
+#multiverse {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-items: baseline;
+  gap: 2rem;
+}
+h2 {
+  text-align: center;
+  margin: 1rem auto;
+}
+
+/* ul {
+  background: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(2.5px);
+  -webkit-backdrop-filter: blur(2.5px);
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+} */
+li {
+  list-style: none;
+  margin: 1rem auto;
+  /* text-align: center; */
+  font-size: 1.1rem;
+  font-weight: 500;
+}
