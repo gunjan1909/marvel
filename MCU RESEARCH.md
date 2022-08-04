@@ -98,6 +98,8 @@
 - midnight angels/dora milaje/okoye (untitled/rumors)
 - Deadpool 3 (unknown)
 - Nova (unknown)
+- Moon Knight s2 (unknown)
+- Eternals 2 (unknown)
 
 <hr>
 
