@@ -56,7 +56,7 @@
 - dr strange in the multiverse of madness( may 6 2022)
 - ms marvel (june 8, 2022)
 - thor love and thunder( july 8 2022)
-- i am groot (shorts) (august 10, 2022)
+- i am groot (shorts \* 5) (august 10, 2022)
 - she hulk: attorney at law (august 17/18 2022)
 - gotg holiday special 2022
 - black panther wakanda forever( nov 11 2022)
