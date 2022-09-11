@@ -58,6 +58,7 @@
 - thor love and thunder( july 8 2022)
 - i am groot (shorts \* 5) (august 10, 2022)
 - she hulk: attorney at law (august 18 2022)
+- warewolf by night (October 7 2022)
 - gotg holiday special 2022
 - black panther wakanda forever( nov 11 2022)
 
@@ -93,7 +94,7 @@
 - armor wars
 - what if...? s3
 - spiderman sophomore year
-- warewolf by night (October 2022)
+- warewolf by night (October 7 2022)
 - wonder man (unknown)
 - midnight angels/dora milaje/okoye (untitled/rumors)
 - Deadpool 3 (unknown)
