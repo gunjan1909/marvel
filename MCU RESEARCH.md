@@ -95,12 +95,14 @@
 - what if...? s3
 - spiderman sophomore year
 - warewolf by night (October 7 2022)
-- wonder man (unknown)
+- wonder man
 - midnight angels/dora milaje/okoye (untitled/rumors)
 - Deadpool 3 (unknown)
 - Nova (unknown)
 - Moon Knight s2 (unknown)
 - Eternals 2 (unknown)
+- Shang Chi 2 (rumors)
+- Thor 5 (rumors)
 
 <hr>
 
@@ -115,8 +117,8 @@
 - Morbius (APRIL 1 2022)
 - Spiderman across the spiderverse part1 (2nd June, 2023)(DELAYED)
 - Spiderman beyond the spiderverse part2 (29th March,2024)(DELAYED)
-- Madame web (6th October, 2023)(DELAYED)
-- Kraven the hunter (13th Jan, 2023)
+- Madame web (16th Feb, 2024)(DELAYED)
+- Kraven the hunter (6th Oct, 2023)(DELAYED)
 - El muerto (12th Jan,2024)
 - Silk (unknown)
 - Venom 3 (unknown)
