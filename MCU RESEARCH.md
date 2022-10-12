@@ -83,9 +83,9 @@
 
 ## Phase 6
 
-- Fantastic 4 (8th November, 2024)
+- Fantastic 4 (14th Feb,2025)(DELAYED)
 - Avengers: The Kang Dynasty (2nd May, 2025)
-- Avengers : Secret Wars (7th November, 2025)
+- Avengers : Secret Wars (1st May, 2026)(DELAYED)
 
 <hr>
 
@@ -97,12 +97,13 @@
 - warewolf by night (October 7 2022)
 - wonder man
 - midnight angels/dora milaje/okoye (untitled/rumors)
-- Deadpool 3 (unknown)
+- Deadpool 3(8th November,2024)
 - Nova (unknown)
 - Moon Knight s2 (unknown)
 - Eternals 2 (unknown)
 - Shang Chi 2 (rumors)
 - Thor 5 (rumors)
+- Spiderman 4(12th July,2024)(rumors)
 
 <hr>
 
