@@ -60,7 +60,7 @@
 - she hulk: attorney at law
 - warewolf by night
 - gotg holiday special 2022
-- black panther wakanda forever( nov 11 2022)
+- black panther wakanda forever(Nov,11 2022)
 
 ## Phase 5
 
@@ -74,7 +74,7 @@
 - Blade (3rd November, 2023)
 - Ironheart (Fall of 2023)
 - xmen 97 (Fall of 2023)
-- Agatha: Coven of Chaos (Winter 2023/2024)
+- Agatha:Coven of Chaos (Winter 2023/2024)
 - Marvel's Zombies (2024)
 - Daredevil: Born Again (Spring 2024)
 - Captain America: New World Order (3rd May, 2024)
