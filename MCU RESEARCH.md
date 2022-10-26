@@ -59,7 +59,7 @@
 - i am groot (shorts \* 5)
 - she hulk: attorney at law
 - warewolf by night
-- gotg holiday special 2022
+- gotg holiday special(Nov,25 2022)
 - black panther wakanda forever(Nov,11 2022)
 
 ## Phase 5
@@ -94,7 +94,6 @@
 - armor wars
 - what if...? s3
 - spiderman sophomore year
-- warewolf by night (October 7 2022)
 - wonder man
 - midnight angels/dora milaje/okoye (untitled/rumors)
 - Deadpool 3(8th November,2024)
