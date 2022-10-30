@@ -103,6 +103,7 @@
 - Shang Chi 2 (rumors)
 - Thor 5 (rumors)
 - Spiderman 4(12th July,2024)(rumors)
+- Vision Quest(rumors)
 
 <hr>
 

@@ -4,4 +4,4 @@ All marvel movies, shows especially phase 4: [CLick Here](https://github.com/gun
 
 #### UPCOMING MARVEL PROJECT: BLACK PANTHER : WAKANDA FOREVER (11TH NOVEMBER,2022)
 
-Last Update: Guardians of The Galaxy Holiday Special
+Last Update(Dt:30-10-2022): Vision Quest(rumors)
