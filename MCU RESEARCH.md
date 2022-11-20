@@ -95,7 +95,7 @@
 - what if...? s3
 - spiderman sophomore year
 - wonder man
-- midnight angels/dora milaje/okoye (untitled/rumors)
+- midnight angels (untitled/rumors)
 - Deadpool 3(8th November,2024)
 - Nova (unknown)
 - Moon Knight s2 (unknown)
@@ -104,6 +104,7 @@
 - Thor 5 (rumors)
 - Spiderman 4(12th July,2024)(rumors)
 - Vision Quest(rumors)
+- Silver Surfer(rumors)
 
 <hr>
 
