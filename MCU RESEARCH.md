@@ -59,8 +59,8 @@
 - i am groot (shorts \* 5)
 - she hulk: attorney at law
 - warewolf by night
+- black panther wakanda forever
 - gotg holiday special
-- black panther wakanda forever(Nov,11 2022)
 
 ## Phase 5
 
