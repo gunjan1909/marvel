@@ -16,20 +16,22 @@ body {
   background: url(https://wallpaperaccess.com/full/14358.jpg) no-repeat center
     center fixed;
   background: url(https://wallpaperaccess.com/full/1225736.jpg) no-repeat center
-    center fixed;
+    fixed;
+  background: url(./bg.jpg) center no-repeat fixed;
   background-size: cover;
   color: black;
+  user-select: none;
 }
 div.container {
   height: 80vh;
   overflow: auto;
   width: 100%;
-  margin: 3rem auto;
+  margin: 0.8rem auto;
   background: rgba(255, 255, 255, 0.4);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(2.5px);
   -webkit-backdrop-filter: blur(2.5px);
-  border-radius: 5px;
+  border-radius: 15px;
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
 /* SCROLLBAR */
@@ -47,7 +49,7 @@ div.container {
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(255, 0, 0, 0.75);
+  background: rgba(76, 123, 151, 0.75);
   border-radius: 10px;
   background-clip: padding-box;
   padding: 1px !important;
@@ -65,7 +67,8 @@ hr {
   font-size: 2.5rem;
   font-weight: bold;
   text-align: center;
-  margin: 1.5rem auto;
+  margin: 0;
+  padding: 1rem;
   /* margin: 1rem; */
 }
 
@@ -96,4 +99,33 @@ li {
   /* text-align: center; */
   font-size: 1.1rem;
   font-weight: 500;
+  text-transform: capitalize;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+/* media queries for screen smaller than 768px */
+@media screen and (max-width: 768px) {
+  #infinity,
+  #multiverse {
+    flex-flow: column nowrap;
+    align-items: center;
+  }
+  .container {
+    margin: 0 auto !important;
+  }
+  li {
+    font-size: 1rem;
+  }
+  #heading {
+    font-size: 1.5rem;
+  }
+  hr {
+    width: 80%;
+  }
 }
