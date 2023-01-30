@@ -2,8 +2,6 @@
 
 All marvel movies, shows especially phase 4: [CLick Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
-Last Update(Dt:10-01-2023): ANTMAN QUANTUMANNA NEW TRAILER RELEASED
-
 ##### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022
 
 #### UPCOMING MARVEL PROJECT: Ant-Man and the Wasp: Quantumania (17th Feb, 2023)
