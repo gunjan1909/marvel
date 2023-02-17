@@ -70,7 +70,7 @@
 - Guardians of the Galaxy: Vol 3 (May 5, 2023)
 - Echo (Summer 2023)
 - Loki Season2 (Summer 2023)
-- The Marvels (28 July, 2023)
+- The Marvels (10 Nov, 2023)(DELAYED)
 - Ironheart (Fall of 2023)
 - armor wars
 - xmen 97 (Fall of 2023)

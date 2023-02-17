@@ -6,6 +6,9 @@ All marvel movies, shows especially phase 4: [CLick Here](https://github.com/gun
 
 #### NOTE: PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania RED CARPET PREMIER)
 
-#### UPCOMING MARVEL PROJECT: Ant-Man and the Wasp: Quantumania (17th Feb, 2023)
+### LATEST:
+
+- #### The Marvels delayed
+- #### Antman Quantamania released
 
 ##### MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
