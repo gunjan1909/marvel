@@ -11,4 +11,4 @@ All marvel movies, shows especially phase 4: [CLick Here](https://github.com/gun
 - #### The Marvels delayed
 - #### Antman Quantamania released
 
-##### MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
+##### MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
