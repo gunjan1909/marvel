@@ -64,15 +64,15 @@
 
 ## Phase 5
 
-- Ant-Man and the Wasp: Quantumania (17th Feb, 2023)
-- what if...? s2 (Early 2023)
-- Secret Invasion (May 2023)
+- Ant-Man and the Wasp: Quantumania
 - Guardians of the Galaxy: Vol 3 (May 5, 2023)
-- Echo (Summer 2023)
-- Loki Season2 (Summer 2023)
 - The Marvels (10 Nov, 2023)(DELAYED)
+- Loki Season2 (2023)
+- Secret Invasion (2023)
+- what if...? s2 (2023)
+- Echo (Summer 2023)
 - Ironheart (Fall of 2023)
-- armor wars
+- Armor Wars
 - xmen 97 (Fall of 2023)
 - Agatha:Coven of Chaos (Winter 2023/2024)
 - Marvel's Zombies (2024)
@@ -81,7 +81,7 @@
 - spiderman freshman year(2024)
 - Thunderbolts (26 July, 2024)
 - Blade (6th September, 2024)
-- Deadpool 3/Wolverine & Deadpool(8th November,2024)
+- Deadpool 3(untitled)(8th November,2024)
 
 ## Phase 6
 

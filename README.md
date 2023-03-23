@@ -1,6 +1,6 @@
 # MARVEL CINEMATIC MULTIVERSE
 
-All marvel movies, shows especially phase 4: [CLick Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
+All marvel movies, shows and everything from past present future: [CLick Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
 ##### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022
 
@@ -8,7 +8,8 @@ All marvel movies, shows especially phase 4: [CLick Here](https://github.com/gun
 
 ### LATEST:
 
-- #### The Marvels delayed
 - #### Antman Quantamania released
+- #### Many marvel production projects have been delayed, loki s2, the marvels, secret invasion etc.
+- #### Secret Wars might be in 2 parts (rumors)
 
-##### MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
+### MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
