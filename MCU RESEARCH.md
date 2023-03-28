@@ -66,10 +66,10 @@
 
 - Ant-Man and the Wasp: Quantumania
 - Guardians of the Galaxy: Vol 3 (May 5, 2023)
+- Secret Invasion (21 June, 2023)
 - The Marvels (10 Nov, 2023)(DELAYED)
 - Loki Season2 (2023)
-- Secret Invasion (2023)
-- what if...? s2 (2023)
+- What if...? s2 (2023)
 - Echo (Summer 2023)
 - Ironheart (Fall of 2023)
 - Armor Wars
