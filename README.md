@@ -8,9 +8,9 @@ All marvel movies, shows and everything from past present future: [CLick Here](h
 
 ### LATEST:
 
-- #### Antman Quantamania released
-- #### Many marvel production projects have been delayed, loki s2, the marvels.
+- #### Secret Invasion Trailer 2 out
 - #### Secret invasion on 21st June.
+- #### Many marvel production projects have been delayed, loki s2, the marvels.
 - #### Secret Wars might be in 2 parts (rumors)
 
 ### MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
