@@ -66,6 +66,7 @@
 
 - Ant-Man and the Wasp: Quantumania
 - Guardians of the Galaxy: Vol 3 (May 5, 2023)
+- Spiderman across the spiderverse (2nd June, 2023)
 - Secret Invasion (21 June, 2023)
 - The Marvels (10 Nov, 2023)(DELAYED)
 - Loki Season2 (2023)
@@ -80,7 +81,7 @@
 - Captain America: New World Order (3rd May, 2024)
 - spiderman freshman year(2024)
 - Thunderbolts (26 July, 2024)
-- Blade (6th September, 2024)
+- Blade (6th September, 2024?)
 - Deadpool 3(untitled)(8th November,2024)
 
 ## Phase 6
@@ -118,8 +119,8 @@
 - Venom
 - Venom 2: Let there be Carnage
 - Morbius (APRIL 1 2022)
-- Spiderman across the spiderverse part1 (2nd June, 2023)(DELAYED)
-- Spiderman beyond the spiderverse part2 (29th March,2024)(DELAYED)
+- Spiderman across the spiderverse (2nd June, 2023)(DELAYED)
+- Spiderman beyond the spiderverse (29th March,2024)(DELAYED)
 - Madame web (16th Feb, 2024)(DELAYED)
 - Kraven the hunter (6th Oct, 2023)(DELAYED)
 - El muerto (12th Jan,2024)

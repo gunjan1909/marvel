@@ -15,3 +15,11 @@ All marvel movies, shows and everything from past present future: [CLick Here](h
 - #### Secret Wars might be in 2 parts (rumors)
 
 ### MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
+
+#### My watchlist of the year(upto july 2023)
+
+- gotg 3 (5th may 2023)
+- spiderverse( 2 june 2023)
+- the flash(16 june 2023)
+- secret invasion(21 june 2023)
+- oppenheimer(21 july 2023)
