@@ -8,6 +8,7 @@ All marvel movies, shows and everything from past present future: [CLick Here](h
 
 ### LATEST:
 
+- #### The Marvels Teaser out(11/04/2023)
 - #### Secret Invasion Trailer 2 out
 - #### Spiderman across the spiderverse Trailer 2 out
 - #### Secret invasion on 21st June.
