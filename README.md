@@ -19,8 +19,8 @@ All marvel movies, shows and everything from past present future: [CLick Here](h
 
 #### My watchlist of the year(upto july 2023)
 
-- gotg 3 (5th may 2023)
-- spiderverse( 2 june 2023)
-- the flash(16 june 2023)
-- secret invasion(21 june 2023)
-- oppenheimer(21 july 2023) (non-marvel)
+- Guardians of the Galaxy vol. 3 (5th may 2023)
+- Spiderman across the spiderverse( 2 june 2023)
+- The Flash(16 june 2023)
+- Secret Invasion(21 june 2023)(disney+)
+- Oppenheimer(21 july 2023) (non-marvel)
