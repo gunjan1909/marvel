@@ -69,6 +69,13 @@ hr {
   border-top: 10px dotted;
   opacity: 1;
 }
+#head_div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
 #heading {
   font-size: 2.5rem;
   font-weight: bold;
@@ -76,6 +83,60 @@ hr {
   margin: 0;
   padding: 1rem;
   /* margin: 1rem; */
+}
+#headtext {
+  font-size: 1rem;
+  width: 75vw;
+  margin: auto;
+  text-align: center;
+}
+.githubimg {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.githubimg:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+  /*add box shadow*/
+  box-shadow: 10px 15px 8px 1px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes shake {
+  0% {
+    transform: translate(1px, 1px) rotate(0deg);
+  }
+  10% {
+    transform: translate(-1px, -2px) rotate(-1deg);
+  }
+  20% {
+    transform: translate(-3px, 0px) rotate(1deg);
+  }
+  30% {
+    transform: translate(3px, 2px) rotate(0deg);
+  }
+  40% {
+    transform: translate(1px, -1px) rotate(1deg);
+  }
+  50% {
+    transform: translate(-1px, 2px) rotate(-1deg);
+  }
+  60% {
+    transform: translate(-3px, 1px) rotate(0deg);
+  }
+  70% {
+    transform: translate(3px, 1px) rotate(-1deg);
+  }
+  80% {
+    transform: translate(-1px, -1px) rotate(1deg);
+  }
+  90% {
+    transform: translate(1px, 2px) rotate(0deg);
+  }
+  100% {
+    transform: translate(1px, -2px) rotate(-1deg);
+  }
 }
 
 #infinity,
@@ -119,8 +180,10 @@ footer {
     flex-flow: column nowrap;
     align-items: center;
   }
-  .container {
-    margin: 0 auto !important;
+  div.container {
+    margin: 0 15px !important;
+    padding: 0.5rem !important;
+    width: fit-content;
   }
   li {
     font-size: 1rem;
@@ -128,7 +191,16 @@ footer {
   #heading {
     font-size: 1.5rem;
   }
+  #headtext {
+    width: 90vw;
+    margin: 0.5rem;
+    font-size: 0.85rem;
+    line-height: 0.95;
+  }
   hr {
     width: 80%;
+  }
+  .githubimg {
+    position: static;
   }
 }
