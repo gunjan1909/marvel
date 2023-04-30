@@ -6,7 +6,7 @@ All marvel movies, shows and everything from past present future: [Click Here](h
 
 ### LATEST:
 
-- #### GOTG VOL3. clips released, movie coming out soon on 5th May,2023, early reviews positive.
+- #### GOTG VOL3. Red carpet premier, movie reviews positive.
 - #### The Marvels Teaser out(11/04/2023)
 - #### Secret Invasion Trailer 2 out
 - #### Spiderman across the spiderverse Trailer 2 out
