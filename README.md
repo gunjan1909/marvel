@@ -2,14 +2,12 @@
 
 All marvel movies, shows and everything from past present future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
-### Upcoming Movie: Guradians of The Galaxy Vol.3 (5th May, 2023)
+### Upcoming Movie: Spiderman across the spiderverse (2nd June, 2023)
 
 ### LATEST:
 
-- ### GOTG VOL.3 released (04-05-2023)
-- #### The Marvels Teaser out (11/04/2023)
-- #### Secret Invasion Trailer 2 out
-- #### Spiderman across the spiderverse Trailer 2 out
+- ### GOTG VOL.3 released (05-05-2023)
+- #### Spiderman across the spiderverse on 2nd June.
 - #### Secret invasion on 21st June.
 
 ##### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania RED CARPET PREMIER)
