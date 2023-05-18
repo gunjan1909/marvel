@@ -9,6 +9,8 @@ All marvel movies, shows and everything from past present future: [Click Here](h
 - ### GOTG VOL.3 released (05-05-2023)
 - #### Spiderman across the spiderverse on 2nd June.
 - #### Secret invasion on 21st June.
+- ### Loki S2 date released - 6th October, 2023
+- ### Echo date released - 29th November, 2023 (all episodes at once)
 
 ##### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania RED CARPET PREMIER)
 
