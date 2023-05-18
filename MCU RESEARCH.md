@@ -104,7 +104,7 @@
 - Shang Chi 2 (rumors)
 - Thor 5 (rumors)
 - Spiderman 4(12th July,2024)(rumors)
-- Vision Quest(rumors)
+- Vision Quest(2024-25)
 - Silver Surfer(rumors)
 - Wong Series(rumors)
 
