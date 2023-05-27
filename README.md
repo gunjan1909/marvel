@@ -1,6 +1,6 @@
 # MARVEL CINEMATIC MULTIVERSE
 
-All marvel movies, shows and everything from past present future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
+All marvel movies, shows and everything from past present and future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
 ### Upcoming Movie: Spiderman across the spiderverse (1st/2nd June, 2023)
 
