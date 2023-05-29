@@ -74,7 +74,7 @@
 - What if...? s2 (2023?)
 - Ironheart (Fall of 2023?)
 - Armor Wars
-- xmen 97 (Fall of 2023?)
+- xmen 97 (3 Janary, 2024(rumors))
 - Agatha:Coven of Chaos (Winter 2023/2024)
 - Marvel's Zombies (2024)
 - Daredevil: Born Again (Spring 2024)
