@@ -118,11 +118,11 @@
 - spiderman into the spiderverse
 - Venom
 - Venom 2: Let there be Carnage
-- Morbius (APRIL 1 2022)
-- Spiderman across the spiderverse (1st/2nd June, 2023)
+- Morbius
+- Spiderman across the spiderverse
 - Spiderman beyond the spiderverse (29th March,2024)(DELAYED)
+- Kraven the hunter (6th Oct, 2023)
 - Madame web (16th Feb, 2024)(DELAYED)
-- Kraven the hunter (6th Oct, 2023)(DELAYED)
 - El muerto (12th Jan,2024)
 - Silk (unknown)
 - Venom 3 (unknown)

@@ -2,12 +2,11 @@
 
 All marvel movies, shows and everything from past present and future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
-### Upcoming Movie: Spiderman across the spiderverse (1st/2nd June, 2023)
+### Spiderman Across the Spiderverse released (01-06-2023)
 
 ### LATEST:
 
-- ### GOTG VOL.3 released (05-05-2023)
-- #### Spiderman across the spiderverse on 1st/2nd June.
+- ### Spiderman across the spiderverse released (01-06-2023)
 - #### Secret invasion on 21st June.
 - ### Loki S2 date released - 6th October, 2023
 - ### Echo date released - 29th November, 2023 (all episodes at once)
@@ -20,7 +19,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### My watchlist of the year(upto july 2023)
 
 - Guardians of the Galaxy vol. 3 (5th may 2023) ✅DONE
-- Spiderman across the spiderverse(2 june 2023)
-- The Flash(16 june 2023)
-- Secret Invasion(21 june 2023)(disney+)
-- Oppenheimer(21 july 2023) (non-marvel)
+- Spiderman across the spiderverse(1st june 2023) ✅DONE
+- The Flash(16th june 2023)
+- Secret Invasion(21st june 2023)(disney+)
+- Oppenheimer(21st july 2023) (non-marvel)
