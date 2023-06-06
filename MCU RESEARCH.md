@@ -78,7 +78,7 @@
 - Agatha:Coven of Chaos (Winter 2023/2024)
 - Marvel's Zombies (2024)
 - Daredevil: Born Again (Spring 2024)
-- Captain America: New World Order (3rd May, 2024)
+- Captain America: Brave New World(3rd May, 2024)
 - spiderman freshman year(2024)
 - Thunderbolts (26 July, 2024)
 - Blade (6th September, 2024?)
