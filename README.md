@@ -27,6 +27,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - Guardians of the Galaxy vol. 3 (5th may 2023) ✅DONE
 - Spiderman across the spiderverse(1st june 2023) ✅DONE
-- The Flash(16th june 2023)
+- The Flash(15th/16th june 2023)
 - Secret Invasion(21st june 2023)(disney+)
 - Oppenheimer(21st july 2023) (non-marvel)
