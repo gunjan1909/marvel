@@ -14,6 +14,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - #### Loki S2 date released - 6th October, 2023
 - #### Echo date released - 29th November, 2023 (all episodes at once)
 - #### Kraven the hunter - 6th October, 2023
+- #### Rumors: El Muerto can be cancelled.
 
 #### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania RED CARPET PREMIER)
 

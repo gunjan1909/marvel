@@ -120,10 +120,10 @@
 - Venom 2: Let there be Carnage
 - Morbius
 - Spiderman across the spiderverse
-- Spiderman beyond the spiderverse (29th March,2024)(DELAYED)
+- Spiderman beyond the spiderverse (29th March,2024)
 - Kraven the hunter (6th Oct, 2023)
-- Madame web (16th Feb, 2024)(DELAYED)
-- El muerto (12th Jan,2024)
+- Madame web (16th Feb, 2024)
+- El muerto (12th Jan,2024)(CANCELLED RUMORS)
 - Silk (unknown)
 - Venom 3 (unknown)
 
