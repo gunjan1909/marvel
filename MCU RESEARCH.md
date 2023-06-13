@@ -66,29 +66,29 @@
 
 - Ant-Man and the Wasp: Quantumania
 - Guardians of the Galaxy: Vol 3
-- Spiderman across the spiderverse (1st/2nd June, 2023)
+- Spiderman across the spiderverse
 - Secret Invasion (21 June, 2023)
 - Loki Season2 (6 Oct, 2023)
-- The Marvels (10 Nov, 2023)(DELAYED)
+- The Marvels (10 Nov, 2023)
 - Echo (29 Nov, 2023)
-- What if...? s2 (2023?)
+- What if...? s2 (2023/24)
+- Deadpool 3(3 May, 2024)
+- Captain America: Brave New World(26 July, 2024)
+- Thunderbolts (20 Devember, 2024)
 - Ironheart (Fall of 2023?)
-- Armor Wars
-- xmen 97 (3 Janary, 2024(rumors))
+- Armor Wars(??)
+- Xmen 97 (3 Janary, 2024(rumors))
 - Agatha:Coven of Chaos (Winter 2023/2024)
 - Marvel's Zombies (2024)
 - Daredevil: Born Again (Spring 2024)
-- Captain America: Brave New World(3rd May, 2024)
-- spiderman freshman year(2024)
-- Thunderbolts (26 July, 2024)
-- Blade (6th September, 2024?)
-- Deadpool 3(untitled)(8th November,2024)
+- Blade (14 February, 2025)
+- Spiderman freshman year(2024)
 
 ## Phase 6
 
-- Fantastic 4 (14th Feb,2025)(DELAYED)
-- Avengers: The Kang Dynasty (2nd May, 2025)
-- Avengers : Secret Wars (1st May, 2026)(DELAYED)
+- Fantastic 4 (2 May,2025)
+- Avengers: The Kang Dynasty (1 May, 2026)
+- Avengers : Secret Wars (7 May, 2027)
 
 <hr>
 
