@@ -15,16 +15,15 @@ body {
   /* scroll-behavior: none; */
   height: 100vh;
   /* overflow: hidden; */
-  background: url(https://wallpaperaccess.com/full/14358.jpg) no-repeat center
-    center fixed;
-  background: url(https://wallpaperaccess.com/full/1225736.jpg) no-repeat center
-    fixed;
+  background: url(https://wallpaperaccess.com/full/14358.jpg) no-repeat center center fixed;
+  background: url(https://wallpaperaccess.com/full/1225736.jpg) no-repeat center fixed;
   background: url(../assets/bg.jpg) center no-repeat fixed;
   /* background: url(../assets/bg2.png) center no-repeat fixed; */
   background-size: cover;
   color: black;
   user-select: none;
 }
+
 div.container {
   height: 80vh;
   overflow: auto;
@@ -40,6 +39,7 @@ div.container {
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
 }
+
 /* SCROLLBAR */
 
 /* width */
@@ -53,6 +53,7 @@ div.container {
   background-clip: padding-box;
   /* padding: 1px !important; */
 }
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
   background: rgba(76, 123, 151, 0.75);
@@ -69,6 +70,7 @@ hr {
   border-top: 10px dotted;
   opacity: 1;
 }
+
 #head_div {
   display: flex;
   flex-direction: row;
@@ -76,6 +78,7 @@ hr {
   align-items: center;
   position: relative;
 }
+
 #heading {
   font-size: 2.5rem;
   font-weight: bold;
@@ -84,18 +87,21 @@ hr {
   padding: 1rem;
   /* margin: 1rem; */
 }
+
 #headtext {
   font-size: 1rem;
   width: 75vw;
   margin: auto;
   text-align: center;
 }
+
 .githubimg {
   cursor: pointer;
   position: absolute;
   right: 10px;
   top: 10px;
 }
+
 .githubimg:hover {
   animation: shake 0.5s;
   animation-iteration-count: infinite;
@@ -107,33 +113,43 @@ hr {
   0% {
     transform: translate(1px, 1px) rotate(0deg);
   }
+
   10% {
     transform: translate(-1px, -2px) rotate(-1deg);
   }
+
   20% {
     transform: translate(-3px, 0px) rotate(1deg);
   }
+
   30% {
     transform: translate(3px, 2px) rotate(0deg);
   }
+
   40% {
     transform: translate(1px, -1px) rotate(1deg);
   }
+
   50% {
     transform: translate(-1px, 2px) rotate(-1deg);
   }
+
   60% {
     transform: translate(-3px, 1px) rotate(0deg);
   }
+
   70% {
     transform: translate(3px, 1px) rotate(-1deg);
   }
+
   80% {
     transform: translate(-1px, -1px) rotate(1deg);
   }
+
   90% {
     transform: translate(1px, 2px) rotate(0deg);
   }
+
   100% {
     transform: translate(1px, -2px) rotate(-1deg);
   }
@@ -147,6 +163,7 @@ hr {
   align-items: baseline;
   gap: 2rem;
 }
+
 h2 {
   text-align: center;
   margin: 1rem auto;
@@ -156,6 +173,7 @@ ul {
   padding-left: 0;
   margin: 0.5rem;
 }
+
 li {
   /* list-style: none; */
   margin: 0.5rem auto;
@@ -175,31 +193,38 @@ footer {
 
 /* media queries for screen smaller than 768px */
 @media screen and (max-width: 768px) {
+
   #infinity,
   #multiverse {
     flex-flow: column nowrap;
     align-items: center;
   }
+
   div.container {
     margin: 0 15px !important;
     padding: 0.5rem !important;
     width: fit-content;
   }
+
   li {
     font-size: 1rem;
   }
+
   #heading {
     font-size: 1.5rem;
   }
+
   #headtext {
     width: 90vw;
     margin: 0.5rem;
     font-size: 0.85rem;
     line-height: 0.95;
   }
+
   hr {
     width: 80%;
   }
+
   .githubimg {
     position: static;
   }
