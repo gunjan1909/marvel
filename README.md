@@ -2,13 +2,14 @@
 
 All marvel movies, shows and everything from past present and future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
-### Secret Invasion starts soon (21st June, 2023)
+### Secret Invasion begins.
 
 <br/>
 
 ## LATEST:
 
 - ### Dates changed: Deadpool 3(03/05/2024), Captain America:Brave New World(26/07/2024), Thunderbolts(20/12/2024), Blade(14/02/2025), Fantastic4 (02/05/2025), Avengers:Kang Dynasty(01/05/2026), Avengers:Secret Wars(07/05/2027)
+- #### Kraven the hunter 1st trailer out.
 - #### Loki S2 release date - 6th October, 2023
 - #### Echo release date - 29th November, 2023 (all episodes at once)
 - #### Kraven the hunter - 6th October, 2023
