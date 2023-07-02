@@ -14,7 +14,9 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - #### Echo release date - 29th November, 2023 (all episodes at once)
 - #### Kraven the hunter - 6th October, 2023
 - #### Rumors: El Muerto can be cancelled.
-- #### Sony released dates for 2 untitled marvel movies(maybe spiderman4, kraven, madame web, venom3)/
+- #### Sony released dates for 2 untitled marvel movies(maybe spiderman4, kraven, madame web, venom3)
+
+<br/>
 
 #### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania RED CARPET PREMIER)
 
