@@ -2,7 +2,7 @@
 
 All marvel movies, shows and everything from past present and future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
-### Secret Invasion 2 episodes out.
+### Secret Invasion 3 episodes out.
 
 <br/>
 
