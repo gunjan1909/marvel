@@ -67,6 +67,7 @@
 - Ant-Man and the Wasp: Quantumania
 - Guardians of the Galaxy: Vol 3
 - Spiderman across the spiderverse
+- Secret Invasion
 - Loki Season2 (6 Oct, 2023)
 - The Marvels (10 Nov, 2023)
 - Echo (29 Nov, 2023)
