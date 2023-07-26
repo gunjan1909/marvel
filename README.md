@@ -2,7 +2,7 @@
 
 All marvel movies, shows and everything from past present and future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
-### Secret Invasion 5 episodes out.
+### Secret Invasion all episodes out.
 
 <br/>
 
@@ -27,5 +27,4 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 <br/>
 
-- Secret Invasion(21st june 2023)(disney+)⏳
 - Oppenheimer(21st july 2023) (non-marvel)
