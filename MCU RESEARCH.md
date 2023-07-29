@@ -121,11 +121,11 @@
 - Morbius
 - Spiderman across the spiderverse
 - Spiderman beyond the spiderverse (29th March,2024)
-- Kraven the hunter (6th Oct, 2023)
 - Madame web (16th Feb, 2024)
+- Venom 3 (12th July, 2024)
+- Kraven the hunter (30th August, 2024)
 - El muerto (12th Jan,2024)(CANCELLED RUMORS)
 - Silk (unknown)
-- Venom 3 (unknown)
 
 <hr>
 
