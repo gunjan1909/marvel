@@ -9,7 +9,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST:
 
 - ### Dates changed: Deadpool 3(03/05/2024), Captain America:Brave New World(26/07/2024), Thunderbolts(20/12/2024), Blade(14/02/2025), Fantastic4 (02/05/2025), Avengers:Kang Dynasty(01/05/2026), Avengers:Secret Wars(07/05/2027)
-- #### The Marvels Trailer out.
+- ### Loki Season 2 [trailer out](https://youtu.be/dug56u8NN7g)
+- #### The Marvels [trailer out](https://youtu.be/wS_qbDztgVY)
 - #### Kraven the hunter and Venom 3 dates changed to 30th August 2024 and 12th July 2024 respectively
 - #### Echo release date - 29th November, 2023 (all episodes at once)
 
