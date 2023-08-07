@@ -68,6 +68,7 @@
 - Guardians of the Galaxy: Vol 3
 - Spiderman across the spiderverse
 - Secret Invasion
+- I am Groot Season 2 (shorts \* 5) (6 Sept, 2023)
 - Loki Season2 (6 Oct, 2023)
 - The Marvels (10 Nov, 2023)
 - Echo (29 Nov, 2023)
