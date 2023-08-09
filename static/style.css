@@ -15,8 +15,8 @@ body {
   /* scroll-behavior: none; */
   height: 100vh;
   /* overflow: hidden; */
-  background: url(https://wallpaperaccess.com/full/14358.jpg) no-repeat center center fixed;
-  background: url(https://wallpaperaccess.com/full/1225736.jpg) no-repeat center fixed;
+  /* background: url(https://wallpaperaccess.com/full/14358.jpg) no-repeat center center fixed; */
+  /* background: url(https://wallpaperaccess.com/full/1225736.jpg) no-repeat center fixed; */
   background: url(../assets/bg.jpg) center no-repeat fixed;
   /* background: url(../assets/bg2.png) center no-repeat fixed; */
   background-size: cover;
