@@ -71,9 +71,9 @@
 - I am Groot Season 2 (shorts \* 5) (6 Sept, 2023)
 - Loki Season2 (6 Oct, 2023)
 - The Marvels (10 Nov, 2023)
-- Echo (29 Nov, 2023)
+- Echo (29 Nov, 2023)(MIGHT BE DELAYED)
 - What if...? s2 (2023/24)
-- Deadpool 3(3 May, 2024)
+- Deadpool 3(3 May, 2024)(MIGHT BE DELAYED)
 - Captain America: Brave New World(26 July, 2024)
 - Thunderbolts (20 Devember, 2024)
 - Ironheart (Fall of 2023?)
@@ -163,10 +163,11 @@
 - Deadpool 2
 - Dark Phoenix
 - The New Mutants
+- Deadpool 3 (2024)
 
 ## OTHERS (NON CANON YET)
 
-- Agents of SHIELD
+- Agents of SHIELD - PERSONAL FAVOURITE
 - Agent Carter
 - Inhumans
 - Cloak and Dagger
