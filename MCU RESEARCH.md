@@ -79,7 +79,7 @@
 - Ironheart (Fall of 2023?)
 - Armor Wars(??)
 - Xmen 97 (3 Janary, 2024(rumors))
-- Agatha:Coven of Chaos (Winter 2023/2024)
+- Agatha: Darkhold Diaries (Winter 2023/2024)
 - Marvel's Zombies (2024)
 - Daredevil: Born Again (Spring 2024)
 - Blade (14 February, 2025)

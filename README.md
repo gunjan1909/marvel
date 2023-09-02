@@ -17,6 +17,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - ### Loki Season 2 trailer out. [Click here](https://youtu.be/dug56u8NN7g)
 - ### The Marvels trailer 2 out. [Click here](https://youtu.be/3sHHCG1JDL8?feature=shared)
 - ### The Marvels trailer out. [Click here](https://youtu.be/wS_qbDztgVY)
+- ### Agatha: Darkhold Diaries title changed
 - ### I am Groot Season 2 (5 more shorts) coming out on 6th September,2023
 - #### Kraven the hunter and Venom 3 dates changed to 30th August 2024 and 12th July 2024 respectively
 - #### Some disney+ projects like Echo, Daredevil Born Again might get delayed because of SAG-AFTRA Strike.
