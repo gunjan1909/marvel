@@ -69,7 +69,7 @@
 - Spiderman across the spiderverse
 - Secret Invasion
 - I am Groot Season 2 (shorts \* 5)
-- Loki Season2 (6 Oct, 2023)
+- Loki Season2 (5 Oct, 2023)
 - The Marvels (10 Nov, 2023)
 - Echo (29 Nov, 2023)(MIGHT BE DELAYED)
 - What if...? s2 (2023/24)
