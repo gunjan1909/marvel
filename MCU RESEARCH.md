@@ -71,7 +71,7 @@
 - I am Groot Season 2 (shorts \* 5)
 - Loki Season2 (5 Oct, 2023)
 - The Marvels (10 Nov, 2023)
-- Echo (29 Nov, 2023)(MIGHT BE DELAYED)
+- Echo (January, 2024)(DELAYED)
 - What if...? s2 (2023/24)
 - Deadpool 3(3 May, 2024)(MIGHT BE DELAYED)
 - Captain America: Brave New World(26 July, 2024)
