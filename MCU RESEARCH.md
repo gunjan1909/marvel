@@ -52,7 +52,7 @@
 - hawkeye
 - spiderman no way home
 - moon knight
-- morbius (APRIL 1 2022)
+- morbius
 - dr strange in the multiverse of madness
 - ms marvel
 - thor love and thunder
@@ -69,20 +69,19 @@
 - Spiderman across the spiderverse
 - Secret Invasion
 - I am Groot Season 2 (shorts \* 5)
-- Loki Season2 (5 Oct, 2023)
 - The Marvels (10 Nov, 2023)
 - Echo (January, 2024)(DELAYED)
 - What if...? s2 (2023/24)
 - Deadpool 3(3 May, 2024)(MIGHT BE DELAYED)
 - Captain America: Brave New World(26 July, 2024)
 - Thunderbolts (20 Devember, 2024)
-- Ironheart (Fall of 2023?)
 - Armor Wars(??)
 - Xmen 97 (3 Janary, 2024(rumors))
-- Agatha: Darkhold Diaries (Winter 2023/2024)
+- Agatha: Darkhold Diaries (19 September, 2024)
 - Marvel's Zombies (2024)
 - Daredevil: Born Again (Spring 2024)
 - Blade (14 February, 2025)
+- Ironheart (3 September, 2025)(tentative)
 - Spiderman freshman year(2024)
 
 ## Phase 6
