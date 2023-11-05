@@ -70,7 +70,7 @@
 - Secret Invasion
 - I am Groot Season 2 (shorts \* 5)
 - The Marvels (10 Nov, 2023)
-- Echo (January, 2024)(DELAYED)
+- Echo (10th January, 2024)(All episodes)
 - What if...? s2 (2023/24)
 - Deadpool 3(3 May, 2024)(MIGHT BE DELAYED)
 - Captain America: Brave New World(26 July, 2024)

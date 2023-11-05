@@ -14,9 +14,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - #### Dates changed: Deadpool 3(03/05/2024), Captain America:Brave New World(26/07/2024), Thunderbolts(20/12/2024), Blade(14/02/2025), Fantastic4 (02/05/2025), Avengers:Kang Dynasty(01/05/2026), Avengers:Secret Wars(07/05/2027)
-- ### The Marvels trailer 2 out. [Click here](https://youtu.be/3sHHCG1JDL8?feature=shared)
-- ### Loki s2 streaming on disney+.
-- ### The Marvels coming out on 10th November, 2023.
+- ### Echo [trailer](https://youtu.be/AFUKnherhuw?feature=shared) released and release date: 10th January, 2024( all episodes )
 - ### Many Marvel projects delayed/shifted again like Deadpool 3, Daredevil Born Again because of SAG-AFTRA strike.
 
 <br/>
