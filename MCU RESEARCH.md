@@ -69,18 +69,18 @@
 - Spiderman across the spiderverse
 - Secret Invasion
 - I am Groot Season 2 (shorts \* 5)
-- The Marvels (10 Nov, 2023)
+- The Marvels
 - Echo (10th January, 2024)(All episodes)
 - What if...? s2 (2023/24)
-- Deadpool 3(3 May, 2024)(MIGHT BE DELAYED)
-- Captain America: Brave New World(26 July, 2024)
-- Thunderbolts (20 Devember, 2024)
-- Armor Wars(??)
+- Deadpool 3(26 July, 2024)
 - Xmen 97 (3 Janary, 2024(rumors))
 - Agatha: Darkhold Diaries (19 September, 2024)
+- Captain America: Brave New World(14 Feb, 2025)
+- Thunderbolts (25 July, 2025)
+- Armor Wars(??)
 - Marvel's Zombies (2024)
-- Daredevil: Born Again (Spring 2024)
-- Blade (14 February, 2025)
+- Daredevil: Born Again (Spring 2024?)
+- Blade (7 November, 2025)
 - Ironheart (3 September, 2025)(tentative)
 - Spiderman freshman year(2024)
 
@@ -162,7 +162,7 @@
 - Deadpool 2
 - Dark Phoenix
 - The New Mutants
-- Deadpool 3 (2024)
+- Deadpool 3(26 July, 2024)
 
 ## OTHERS (NON CANON YET)
 
