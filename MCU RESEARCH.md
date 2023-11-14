@@ -55,8 +55,8 @@
 - morbius
 - dr strange in the multiverse of madness
 - ms marvel
-- thor love and thunder
 - i am groot (shorts \* 5)
+- thor love and thunder
 - she hulk: attorney at law
 - warewolf by night
 - black panther wakanda forever
@@ -69,11 +69,12 @@
 - Spiderman across the spiderverse
 - Secret Invasion
 - I am Groot Season 2 (shorts \* 5)
+- Loki s2
 - The Marvels
-- Echo (10th January, 2024)(All episodes)
-- What if...? s2 (2023/24)
-- Deadpool 3(26 July, 2024)
+- What if...? s2 (22 December, 2023)
 - Xmen 97 (3 Janary, 2024(rumors))
+- Echo (10th January, 2024)(All episodes)
+- Deadpool 3(26 July, 2024)
 - Agatha: Darkhold Diaries (19 September, 2024)
 - Captain America: Brave New World(14 Feb, 2025)
 - Thunderbolts (25 July, 2025)
@@ -121,9 +122,9 @@
 - Morbius
 - Spiderman across the spiderverse
 - Spiderman beyond the spiderverse (29th March,2024)
-- Madame web (16th Feb, 2024)
-- Venom 3 (12th July, 2024)
+- Madame web (14th Feb, 2024)
 - Kraven the hunter (30th August, 2024)
+- Venom 3 (8th November, 2024)
 - El muerto (12th Jan,2024)(CANCELLED RUMORS)
 - Silk (unknown)
 
