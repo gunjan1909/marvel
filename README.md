@@ -16,8 +16,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
   - #### Deadpool 3 (26 July 2024)
   - #### Kraven the Hunter (30 August 2024)
   - #### Venom 3 (8 November 2024)
-- ### Madame Web [trailer](https://www.youtube.com/watch?v=s_76M4c4LTo) out
-- ### What if..? s2 trailer releasing soon.
+- ### Madame Web [trailer](https://www.youtube.com/watch?v=s_76M4c4LTo) out.
+- ### What if..? s2 [trailer](https://youtu.be/TiEVqZ2Bc_c?feature=shared) out.
 - ### Echo [trailer](https://youtu.be/AFUKnherhuw?feature=shared) released and release date: 10th January, 2024( all episodes )
 - ### Many Marvel projects delayed/shifted again like Deadpool 3, Captain America 4, Blade, Daredevil Born Again because of SAG-AFTRA strike.
 
