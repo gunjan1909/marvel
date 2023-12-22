@@ -71,7 +71,7 @@
 - I am Groot Season 2 (shorts \* 5)
 - Loki s2
 - The Marvels
-- What if...? s2 (22 December, 2023)
+- What if...? s2
 - Xmen 97 (3 Janary, 2024(rumors))
 - Echo (10th January, 2024)(All episodes)
 - Deadpool 3(26 July, 2024)
