@@ -73,7 +73,7 @@
 - The Marvels
 - What if...? s2
 - Xmen 97 (3 Janary, 2024(rumors))
-- Echo (10th January, 2024)(All episodes)
+- Echo (9th/10th January, 2024)(All episodes)
 - Deadpool 3(26 July, 2024)
 - Agatha: Darkhold Diaries (19 September, 2024)
 - Captain America: Brave New World(14 Feb, 2025)

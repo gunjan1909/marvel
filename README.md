@@ -3,21 +3,17 @@
 All marvel movies, shows and everything from past present and future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
 - ### Note that the date format is DD/MM/YYYY
-- ### What if..? Season 2 released on 22nd December
+- ### Echo all episodes released on January 10, 2024 (10th January 2024 7:30AM IST).
+- ### What if...? Season 2 all episodes out on Disney+.
 
 <br/>
 
 ## LATEST UPDATES:
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md)
-- ### What if..? Season 2 out.
-- ### Upcoming projects
-  - #### Madame Web (14 February 2024)
-  - #### Deadpool 3 (26 July 2024)
-  - #### Kraven the Hunter (30 August 2024)
-  - #### Venom 3 (8 November 2024)
+- ### Echo all episodes out.
+- ### What if...? Season 2 all episodes out on Disney+.
 - ### Madame Web [trailer](https://www.youtube.com/watch?v=s_76M4c4LTo) out.
-- ### Echo [trailer](https://youtu.be/AFUKnherhuw?feature=shared) released and release date: 10th January, 2024( all episodes )
 - ### Many Marvel projects delayed/shifted again like Deadpool 3, Captain America 4, Blade, Daredevil Born Again because of SAG-AFTRA strike.
 
 <br/>
