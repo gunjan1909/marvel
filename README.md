@@ -3,14 +3,17 @@
 All marvel movies, shows and everything from past present and future: [Click Here](https://github.com/gunjan1909/marvel/blob/main/MCU%20RESEARCH.md)
 
 - ### Note that the date format is DD/MM/YYYY
-- ### Echo all episodes released on January 10, 2024 (10th January 2024 7:30AM IST).
-- ### What if...? Season 2 all episodes out on Disney+.
+- ### Madame Web releases on 16th February, 2024
+- ### Deadpool 3 trailer out soon.
 
 <br/>
 
 ## LATEST UPDATES:
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md)
+- ### The Marvels released on Disney+.
+- ### Madame Web releases on 16th February, 2024
+- ### Deadpool 3 trailer out soon.
 - ### Echo all episodes out.
 - ### What if...? Season 2 all episodes out on Disney+.
 - ### Madame Web [trailer](https://www.youtube.com/watch?v=s_76M4c4LTo) out.

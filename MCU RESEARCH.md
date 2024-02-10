@@ -72,9 +72,9 @@
 - Loki s2
 - The Marvels
 - What if...? s2
-- Xmen 97 (3 Janary, 2024(rumors))
-- Echo (9th/10th January, 2024)(All episodes)
+- Echo
 - Deadpool 3(26 July, 2024)
+- Xmen 97 (3 Janary, 2024(rumors))
 - Agatha: Darkhold Diaries (19 September, 2024)
 - Captain America: Brave New World(14 Feb, 2025)
 - Thunderbolts (25 July, 2025)
@@ -104,7 +104,7 @@
 - Eternals 2 (unknown)
 - Shang Chi 2 (rumors)
 - Thor 5 (rumors)
-- Spiderman 4(12th July,2024)(rumors)
+- Spiderman 4(rumors)
 - Vision Quest(2024-25)
 - Silver Surfer(rumors)
 - Wong Series(rumors)
@@ -121,8 +121,8 @@
 - Venom 2: Let there be Carnage
 - Morbius
 - Spiderman across the spiderverse
-- Spiderman beyond the spiderverse (29th March,2024)
-- Madame web (14th Feb, 2024)
+- Spiderman beyond the spiderverse (29th March,2024)(unknown)
+- Madame web (14th/16th Feb, 2024)
 - Kraven the hunter (30th August, 2024)
 - Venom 3 (8th November, 2024)
 - El muerto (12th Jan,2024)(CANCELLED RUMORS)
@@ -130,7 +130,7 @@
 
 <hr>
 
-## DEFENDERS SERIES(CURRENTLY DISNEY+, PREVIOUSLY NETFLIX)
+## DEFENDERS SERIES(CURRENTLY DISNEY+, PREVIOUSLY NETFLIX)(ARE CANON NOW)
 
 - Daredevil, Season 1
 - Jessica Jones, Season 1
