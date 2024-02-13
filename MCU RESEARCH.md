@@ -52,7 +52,6 @@
 - hawkeye
 - spiderman no way home
 - moon knight
-- morbius
 - dr strange in the multiverse of madness
 - ms marvel
 - i am groot (shorts \* 5)
@@ -130,7 +129,7 @@
 
 <hr>
 
-## DEFENDERS SERIES(CURRENTLY DISNEY+, PREVIOUSLY NETFLIX)(ARE CANON NOW)
+## DEFENDERS SERIES(CURRENTLY DISNEY+, PREVIOUSLY NETFLIX)(ARE CANON NOW!)
 
 - Daredevil, Season 1
 - Jessica Jones, Season 1
