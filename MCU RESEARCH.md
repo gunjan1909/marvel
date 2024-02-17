@@ -72,21 +72,21 @@
 - The Marvels
 - What if...? s2
 - Echo
-- Deadpool 3(26 July, 2024)
-- Xmen 97 (3 Janary, 2024(rumors))
+- Xmen 97 (20 March, 2024)
+- Deadpool and Wolverine (26 July, 2024)
 - Agatha: Darkhold Diaries (19 September, 2024)
-- Captain America: Brave New World(14 Feb, 2025)
-- Thunderbolts (25 July, 2025)
+- Captain America: Brave New World (14 Feb, 2025)
+- Thunderbolts (2 May, 2025)
 - Armor Wars(??)
 - Marvel's Zombies (2024)
-- Daredevil: Born Again (Spring 2024?)
 - Blade (7 November, 2025)
+- Daredevil: Born Again (2024/2025?)
 - Ironheart (3 September, 2025)(tentative)
-- Spiderman freshman year(2024)
+- Spiderman freshman year (2024)
 
 ## Phase 6
 
-- Fantastic 4 (2 May,2025)
+- Fantastic 4 (25 July,2025)
 - Avengers: The Kang Dynasty (1 May, 2026)
 - Avengers : Secret Wars (7 May, 2027)
 
@@ -112,7 +112,6 @@
 
 ## OTHERS + SPIDERVERSE/ SONYVERSE :-
 
-- disney marvel's legends, assemble
 - spiderman 1,2,3
 - the amazing spiderman 1,2
 - spiderman into the spiderverse
@@ -121,7 +120,7 @@
 - Morbius
 - Spiderman across the spiderverse
 - Spiderman beyond the spiderverse (29th March,2024)(unknown)
-- Madame web (14th/16th Feb, 2024)
+- Madame web
 - Kraven the hunter (30th August, 2024)
 - Venom 3 (8th November, 2024)
 - El muerto (12th Jan,2024)(CANCELLED RUMORS)
@@ -162,7 +161,8 @@
 - Deadpool 2
 - Dark Phoenix
 - The New Mutants
-- Deadpool 3(26 July, 2024)
+- Deadpool and Wolverine(26 July, 2024)
+- X-Men'97
 
 ## OTHERS (NON CANON YET)
 
