@@ -23,6 +23,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### Watchlist
 
 - Echo
-- Morbius
 - Madame Web
+- Morbius
 - Warewolf by Night(colored version)
