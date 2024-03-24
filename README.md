@@ -9,8 +9,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
+- ### X-Men'97 streaming on Disney+.
 - ### Deadpool & Wolverine [first teaser](https://youtu.be/uJMCNJP2ipI?feature=shared) out.
-- ### X-Men'97 [trailer](https://youtu.be/pv3Ss8o9gGQ?feature=shared) out.
 - ### Echo all episodes out.
 
 <br/>
@@ -23,5 +23,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - Echo
 - Madame Web
+- X-Men'97
 - Morbius
 - Warewolf by Night(colored version)

@@ -72,7 +72,7 @@
 - The Marvels
 - What if...? s2
 - Echo
-- Xmen 97 (20 March, 2024)
+- Xmen 97
 - Deadpool and Wolverine (26 July, 2024)
 - Agatha: Darkhold Diaries (19 September, 2024)
 - Captain America: Brave New World (14 Feb, 2025)
