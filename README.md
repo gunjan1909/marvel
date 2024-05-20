@@ -9,10 +9,11 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
-- ### X-Men'97 streaming on Disney+.
+- ### X-Men'97 all episodes out on Disney+.
 - ### Deadpool & Wolverine [trailer](https://youtu.be/cen0rBKLuYE?feature=shared)
 - ### Deadpool & Wolverine [first teaser](https://youtu.be/uJMCNJP2ipI?feature=shared) out.
-- ### Echo all episodes out.
+- ### Agatha title changed, now titled "Agatha all along".
+- ### Agatha, Daredevil, Iron Heart release date updates added.
 
 <br/>
 
@@ -22,8 +23,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
-- Echo
+- Echo(started)
 - Madame Web
-- X-Men'97
+- X-Men'97(old seasons)
 - Morbius
 - Warewolf by Night(colored version)

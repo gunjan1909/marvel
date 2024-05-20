@@ -74,13 +74,13 @@
 - Echo
 - Xmen 97
 - Deadpool and Wolverine (26 July, 2024)
-- Agatha: Darkhold Diaries (19 September, 2024)
+- Agatha all along (18 September, 2024)
 - Captain America: Brave New World (14 Feb, 2025)
 - Thunderbolts (2 May, 2025)
-- Armor Wars(??)
-- Marvel's Zombies (2024)
+- Marvel's Zombies (2024?)
+- Daredevil: Born Again (2025)
 - Blade (7 November, 2025)
-- Daredevil: Born Again (2024/2025?)
+- Armor Wars(??)
 - Ironheart (3 September, 2025)(tentative)
 - Spiderman freshman year (2024)
 
