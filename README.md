@@ -10,6 +10,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### X-Men'97 all episodes out on Disney+.
+- ### Venom:The last dance [trailer](https://youtu.be/__2bjWbetsA?feature=shared).
+- ### Venom:The last dance release date: 12th July 2024.
 - ### Deadpool & Wolverine [trailer](https://youtu.be/cen0rBKLuYE?feature=shared)
 - ### Deadpool & Wolverine [first teaser](https://youtu.be/uJMCNJP2ipI?feature=shared) out.
 - ### Agatha title changed, now titled "Agatha all along".

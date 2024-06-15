@@ -73,6 +73,7 @@
 - What if...? s2
 - Echo
 - Xmen 97
+- Venom: The last dance (12th July, 2024)
 - Deadpool and Wolverine (26 July, 2024)
 - Agatha all along (18 September, 2024)
 - Captain America: Brave New World (14 Feb, 2025)
@@ -121,8 +122,8 @@
 - Spiderman across the spiderverse
 - Spiderman beyond the spiderverse (29th March,2024)(unknown)
 - Madame web
+- Venom: The last dance (12th July, 2024)
 - Kraven the hunter (30th August, 2024)
-- Venom 3 (8th November, 2024)
 - El muerto (12th Jan,2024)(CANCELLED RUMORS)
 - Silk (unknown)
 
