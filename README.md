@@ -4,18 +4,20 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ### Note that the date format is DD/MM/YYYY
 
+- ### Upcoming movie: Deadpool & Wolvering : 26th July, 2024
+
+- ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
+
 <br/>
 
 ## LATEST UPDATES:
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
-- ### X-Men'97 all episodes out on Disney+.
-- ### Venom:The last dance [trailer](https://youtu.be/__2bjWbetsA?feature=shared).
-- ### Venom:The last dance release date: 12th July 2024.
 - ### Deadpool & Wolverine [trailer](https://youtu.be/cen0rBKLuYE?feature=shared)
 - ### Deadpool & Wolverine [first teaser](https://youtu.be/uJMCNJP2ipI?feature=shared) out.
+- ### Venom:The last dance [trailer](https://youtu.be/__2bjWbetsA?feature=shared).
+- ### Venom:The last dance release date: 12th July 2024.
 - ### Agatha title changed, now titled "Agatha all along".
-- ### Agatha, Daredevil, Iron Heart release date updates added.
 
 <br/>
 
@@ -27,6 +29,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - Echo(started)
 - Madame Web
-- X-Men'97(old seasons)
+- X-Men'97(old seasons, new rewatch)
 - Morbius
 - Warewolf by Night(colored version)
