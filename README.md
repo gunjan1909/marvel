@@ -14,10 +14,9 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Deadpool & Wolverine [trailer](https://youtu.be/cen0rBKLuYE?feature=shared)
-- ### Deadpool & Wolverine [first teaser](https://youtu.be/uJMCNJP2ipI?feature=shared) out.
 - ### Venom:The last dance [trailer](https://youtu.be/__2bjWbetsA?feature=shared).
+- ### Agatha all along [trailer](https://www.youtube.com/watch?v=ARulRbzM7Jw).
 - ### Venom:The last dance release date: 12th July 2024.
-- ### Agatha title changed, now titled "Agatha all along".
 
 <br/>
 

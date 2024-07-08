@@ -99,6 +99,7 @@
 - spiderman sophomore year
 - wonder man
 - midnight angels (untitled/rumors)
+- eyes of wakanda
 - Nova (unknown)
 - Moon Knight s2 (unknown)
 - Eternals 2 (unknown)
