@@ -173,6 +173,7 @@
 - Inhumans
 - Cloak and Dagger
 - Runaways
+- Hit Monkey
 - The Gifted
 - Legion
 

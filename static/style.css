@@ -1,6 +1,6 @@
-/* CSS TO BE ADDED TO ALL STYLESHEETS */
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap");
+@import url("./animation.css");
 
 * {
   /* margin: 0; */
@@ -12,27 +12,23 @@
 
 body {
   background-color: aliceblue;
-  /* scroll-behavior: none; */
+  margin: 1vh 1vw;
   height: 100vh;
-  /* overflow: hidden; */
-  /* background: url(https://wallpaperaccess.com/full/14358.jpg) no-repeat center center fixed; */
-  /* background: url(https://wallpaperaccess.com/full/1225736.jpg) no-repeat center fixed; */
   background: url(../assets/bg.jpg) center no-repeat fixed;
-  /* background: url(../assets/bg2.png) center no-repeat fixed; */
   background-size: cover;
   color: black;
   user-select: none;
 }
 
 div.container {
-  height: 80vh;
+  max-height: 75vh;
   overflow: auto;
   width: 100%;
-  margin: 0.8rem auto;
+  margin: 1rem auto;
   background: rgba(255, 255, 255, 0.4);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-  backdrop-filter: blur(2.5px);
-  -webkit-backdrop-filter: blur(2.5px);
+  backdrop-filter: blur(1.5px);
+  -webkit-backdrop-filter: blur(1.5px);
   border-radius: 15px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   padding: 1rem 2rem;
@@ -40,33 +36,9 @@ div.container {
   scroll-snap-type: y mandatory;
 }
 
-/* SCROLLBAR */
-
-/* width */
-::-webkit-scrollbar {
-  width: 6px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: transparent;
-  background-clip: padding-box;
-  /* padding: 1px !important; */
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: rgba(76, 123, 151, 0.75);
-  border-radius: 10px;
-  background-clip: padding-box;
-  padding: 1px !important;
-}
-
-/* SCROLLBAR END */
-
 hr {
   width: 40%;
-  margin: 10vh auto;
+  margin: 2rem auto;
   border-top: 10px dotted;
   opacity: 1;
 }
@@ -85,11 +57,10 @@ hr {
   text-align: center;
   margin: 0;
   padding: 1rem;
-  /* margin: 1rem; */
 }
 
 #headtext {
-  font-size: 1rem;
+  font-size: 1.25rem;
   width: 75vw;
   margin: auto;
   text-align: center;
@@ -105,54 +76,7 @@ hr {
 .githubimg:hover {
   animation: shake 0.5s;
   animation-iteration-count: infinite;
-  /*add box shadow*/
   box-shadow: 10px 15px 8px 1px rgba(0, 0, 0, 0.2);
-}
-
-@keyframes shake {
-  0% {
-    transform: translate(1px, 1px) rotate(0deg);
-  }
-
-  10% {
-    transform: translate(-1px, -2px) rotate(-1deg);
-  }
-
-  20% {
-    transform: translate(-3px, 0px) rotate(1deg);
-  }
-
-  30% {
-    transform: translate(3px, 2px) rotate(0deg);
-  }
-
-  40% {
-    transform: translate(1px, -1px) rotate(1deg);
-  }
-
-  50% {
-    transform: translate(-1px, 2px) rotate(-1deg);
-  }
-
-  60% {
-    transform: translate(-3px, 1px) rotate(0deg);
-  }
-
-  70% {
-    transform: translate(3px, 1px) rotate(-1deg);
-  }
-
-  80% {
-    transform: translate(-1px, -1px) rotate(1deg);
-  }
-
-  90% {
-    transform: translate(1px, 2px) rotate(0deg);
-  }
-
-  100% {
-    transform: translate(1px, -2px) rotate(-1deg);
-  }
 }
 
 #infinity,
@@ -175,9 +99,7 @@ ul {
 }
 
 li {
-  /* list-style: none; */
   margin: 0.5rem auto;
-  /* text-align: center; */
   font-size: 1.1rem;
   font-weight: 500;
   text-transform: capitalize;
@@ -194,16 +116,24 @@ footer {
 /* media queries for screen smaller than 768px */
 @media screen and (max-width: 768px) {
 
+  body {
+    margin: 1rem;
+  }
+
+  div.container {
+    padding: 0.5rem 1rem !important;
+    width: fit-content;
+  }
+
   #infinity,
   #multiverse {
     flex-flow: column nowrap;
     align-items: center;
   }
 
-  div.container {
-    margin: 0 15px !important;
-    padding: 0.5rem !important;
-    width: fit-content;
+  #infinity div,
+  #multiverse div {
+    min-width: 270px;
   }
 
   li {
@@ -211,14 +141,13 @@ footer {
   }
 
   #heading {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 
   #headtext {
     width: 90vw;
     margin: 0.5rem;
-    font-size: 0.85rem;
-    line-height: 0.95;
+    font-size: 1rem;
   }
 
   hr {
