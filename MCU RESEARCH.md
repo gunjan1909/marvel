@@ -73,7 +73,7 @@
 - What if...? s2
 - Echo
 - Xmen 97
-- Deadpool and Wolverine (26 July, 2024)
+- Deadpool & Wolverine
 - Agatha all along (18 September, 2024)
 - Venom: The last dance (25th October, 2024)
 - Captain America: Brave New World (14 Feb, 2025)
@@ -148,7 +148,7 @@
 
 <hr>
 
-## FOX XMEN FRANCHISE
+## FOX XMEN FRANCHISE (CAN BE CONSIDERED CANON AFTER DEADPOOL & WOLVERINE)
 
 - X-Men
 - X-Men 2
@@ -164,7 +164,7 @@
 - Dark Phoenix
 - The New Mutants
 - X-Men'97
-- Deadpool and Wolverine(26 July, 2024)
+- Deadpool & Wolverine
 
 ## OTHERS (NON CANON YET)
 
@@ -184,3 +184,8 @@
 - Fantastic 4 (2015)
 - Ghost Rider (2007)
 - Ghost Rider: Spirit of Vengeance (2011)
+- Blade (1998)
+- Blade II (2002)
+- Blade Trinity (2004)
+- Daredevil (2003)
+- Elektra (2005)

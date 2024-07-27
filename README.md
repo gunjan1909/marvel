@@ -4,7 +4,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ### Note that the date format is DD/MM/YYYY
 
-- ### Deadpool & Wolverine : 26th July, 2024 IMAX-3D
+- ### Deadpool & Wolverine Released.
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
@@ -13,7 +13,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
-- ### Deadpool & Wolverine [final trailer](https://youtu.be/cen0rBKLuYE?feature=shared).
+- ### Deadpool & Wolverine released. LFG!
 - ### Captain America: Brave New World [teaser](https://www.youtube.com/watch?v=O_A8HdCDaWM).
 - ### Hit-Monkey season 2 [trailer](https://www.youtube.com/watch?v=8ScpWRv5n84).
 - ### Venom: The last dance [trailer](https://youtu.be/__2bjWbetsA?feature=shared).
@@ -28,9 +28,12 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
-- Echo(started)
+- Echo
 - Hit Monkey season 2
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
 - Morbius
 - Warewolf by Night(colored version)
+- Blade, Blade II, Blade Trinity
+- Daredevil 2003
+- Elektra 2005
