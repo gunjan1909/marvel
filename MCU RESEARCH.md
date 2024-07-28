@@ -87,8 +87,8 @@
 
 ## Phase 6
 
-- Fantastic 4 (25 July,2025)
-- Avengers: The Kang Dynasty (1 May, 2026)
+- The Fantastic Four: First Steps (25 July,2025)
+- Avengers: Doomsday (1 May, 2026)
 - Avengers : Secret Wars (7 May, 2027)
 
 <hr>
