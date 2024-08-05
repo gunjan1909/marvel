@@ -76,20 +76,24 @@
 - Deadpool & Wolverine
 - Agatha all along (18 September, 2024)
 - Venom: The last dance (25th October, 2024)
+- Marvel's Zombies (2024?)
 - Captain America: Brave New World (14 Feb, 2025)
 - Thunderbolts (2 May, 2025)
-- Marvel's Zombies (2024?)
-- Daredevil: Born Again (2025)
+- The Fantastic Four: First Steps (25 July,2025)
 - Blade (7 November, 2025)
+- Daredevil: Born Again (2025)
 - Armor Wars(??)
 - Ironheart (3 September, 2025)(tentative)
 - Spiderman freshman year (2024)
 
 ## Phase 6
 
-- The Fantastic Four: First Steps (25 July,2025)
+- Untitled movie? (13 February, 2026)
 - Avengers: Doomsday (1 May, 2026)
+- Untitled movie?(battle world) (6 November, 2026)
 - Avengers : Secret Wars (7 May, 2027)
+- Untitled movie? (23 July, 2027)
+- Untitled movie? (5 November, 2027)
 
 <hr>
 
@@ -125,7 +129,6 @@
 - Madame web
 - Venom: The last dance (25th October, 2024)
 - Kraven the hunter (30th August, 2024)
-- El muerto (12th Jan,2024)(CANCELLED RUMORS)
 - Silk (unknown)
 
 <hr>
