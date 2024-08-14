@@ -14,6 +14,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - ### RDJ BACK IN MCU PLAYING DR DOOM.
 - ### Upcoming project: Agatha all along(18th Sept,2024)
 - ### Some 2025-27 info updated in the repository(phase 6).
+- ### Kraven the hunter [trialer](https://youtu.be/hR1-ihzff3I?feature=shared)
 - ### Captain America: Brave New World [teaser](https://www.youtube.com/watch?v=O_A8HdCDaWM).
 - ### Venom: The last dance [trailer](https://youtu.be/__2bjWbetsA?feature=shared).
 - ### Agatha all along [trailer](https://www.youtube.com/watch?v=ARulRbzM7Jw).
