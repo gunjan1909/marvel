@@ -6,18 +6,20 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
+- ### Agatha all along streaming on Disney+ (18th Sept,2024).
+- ### Thunderbolts\* first trailer out.
+
 <br/>
 
 ## LATEST UPDATES:
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
-- ### Upcoming project: Agatha all along(18th Sept,2024)
-- ### RDJ BACK IN MCU PLAYING DR DOOM.
+- ### Agatha all along released on Disney+ (18th Sept,2024)
 - ### Some 2025-27 info updated in the repository(phase 6).
+- ### Thunderbolts\* [trailer](https://www.youtube.com/watch?v=v-94Snw-H4o)
 - ### Kraven the hunter [trialer](https://youtu.be/hR1-ihzff3I?feature=shared)
+- ### Venom: The last dance [trailer](https://www.youtube.com/watch?v=HyIyd9joTTc).
 - ### Captain America: Brave New World [teaser](https://www.youtube.com/watch?v=O_A8HdCDaWM).
-- ### Venom: The last dance [trailer](https://youtu.be/__2bjWbetsA?feature=shared).
-- ### Agatha all along [trailer](https://www.youtube.com/watch?v=ARulRbzM7Jw).
 
 <br/>
 

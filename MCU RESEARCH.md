@@ -74,11 +74,11 @@
 - Echo
 - Xmen 97
 - Deadpool & Wolverine
-- Agatha all along (18 September, 2024)
+- Agatha all along
 - Venom: The last dance (25th October, 2024)
 - Marvel's Zombies (2024?)
 - Captain America: Brave New World (14 Feb, 2025)
-- Thunderbolts (2 May, 2025)
+- Thunderbolts\* (2 May, 2025)
 - The Fantastic Four: First Steps (25 July,2025)
 - Blade (7 November, 2025)
 - Daredevil: Born Again (2025)
