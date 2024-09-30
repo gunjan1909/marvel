@@ -31,6 +31,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - Deadpool & Wolverine rewatch
 - Echo
+- Agatha All Along
 - Hit Monkey season 2
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
