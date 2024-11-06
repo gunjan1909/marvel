@@ -127,8 +127,8 @@
 - Spiderman across the spiderverse
 - Spiderman beyond the spiderverse (29th March,2024)(unknown)
 - Madame web
-- Venom: The last dance (25th October, 2024)
-- Kraven the hunter (December, 2024)
+- Venom: The last dance
+- Kraven the hunter (December, 2024)?
 - Silk (unknown)
 
 <hr>
