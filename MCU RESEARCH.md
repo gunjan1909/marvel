@@ -75,7 +75,7 @@
 - Xmen 97
 - Deadpool & Wolverine
 - Agatha all along
-- Venom: The last dance (25th October, 2024)
+- Venom: The last dance
 - Marvel's Zombies (2024?)
 - Captain America: Brave New World (14 Feb, 2025)
 - Thunderbolts\* (2 May, 2025)
