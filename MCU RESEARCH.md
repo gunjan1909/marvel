@@ -76,6 +76,7 @@
 - Deadpool & Wolverine
 - Agatha all along
 - Venom: The last dance
+- What if...? s3(22 dec, 2024)
 - Marvel's Zombies (2024?)
 - Captain America: Brave New World (14 Feb, 2025)
 - Thunderbolts\* (2 May, 2025)
@@ -99,7 +100,6 @@
 
 ## OTHER MOVIES/SHOWS(CURRENTLY DATES/PHASE NOT OFFICIAL, REST ALL IN RESPECTIVE PHASES ABOVE):-
 
-- what if...? s3
 - spiderman sophomore year
 - wonder man
 - midnight angels (untitled/rumors)
