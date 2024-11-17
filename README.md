@@ -9,7 +9,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - ### Agatha all along streaming on Disney+.
 - ### Venom 3 released out.
 - ### Upcoming: What if..? Season 3(22 dec, 2024).
-- ### Upcoming: Kraven the hunter(unconfirmed).
+- ### Upcoming: Kraven the hunter(13th December, 2024).
 <br/>
 
 ## LATEST UPDATES:
