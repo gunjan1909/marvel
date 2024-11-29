@@ -6,10 +6,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Agatha all along, Deadpool & Wolverine streaming on Disney+.
-- ### Venom 3 released out.
-- ### Upcoming: What if..? Season 3(22 dec, 2024).
 - ### Upcoming: Kraven the hunter(13th December, 2024).
+- ### Upcoming: What if..? Season 3(22 dec, 2024).
 <br/>
 
 ## LATEST UPDATES:
@@ -28,9 +26,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
-- Deadpool & Wolverine rewatch
-- Echo
-- Agatha All Along
 - Venom 3 rewatch
 - Hit Monkey season 2
 - Madame Web
