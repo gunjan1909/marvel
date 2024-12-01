@@ -26,12 +26,11 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
-- Venom 3 rewatch
 - Hit Monkey season 2
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
 - Morbius
-- Warewolf by Night(colored version)
+- Warewolf by Night
 - Blade, Blade II, Blade Trinity
 - Daredevil 2003
 - Elektra 2005
