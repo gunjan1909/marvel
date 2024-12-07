@@ -6,7 +6,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Upcoming: Kraven the hunter(13th December, 2024).
+- ### Upcoming: Kraven The Hunter releasing on 13th December 2024.
 - ### Upcoming: What if..? Season 3(22 dec, 2024).
 <br/>
 
@@ -22,10 +22,11 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE AND SOME PROJECT PRODUCTION IS GETTING DELAYED BECAUSE OF SAG-AFTRA STRIKE.
 
-#### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania RED CARPET PREMIER)
+#### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania).
 
 #### Watchlist
 
+- Kraven The Hunter (13th December watchlist)
 - Hit Monkey season 2
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
