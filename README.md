@@ -6,7 +6,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Upcoming: Kraven The Hunter released in cinemas(13th December 2024).
+- ### Upcoming: Kraven The Hunter release postponed in India (January 2025).
 - ### Upcoming: What if..? Season 3(22 dec, 2024).
 <br/>
 
@@ -14,7 +14,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
-- ### Kraven The Hunter released on 13th December 2024.
 - ### What if..? Season 3 [trailer](https://www.youtube.com/watch?v=umiKiW4En9g).
 - ### Captain America: Brave New World [trailer](https://youtu.be/O_A8HdCDaWM?feature=shared).
 - ### Thunderbolts\* [trailer](https://www.youtube.com/watch?v=v-94Snw-H4o).
@@ -27,7 +26,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
-- Kraven The Hunter (13th December release)
+- Kraven The Hunter (1st January, release postponed in India)
 - Hit Monkey season 2
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
