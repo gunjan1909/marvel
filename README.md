@@ -6,7 +6,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Upcoming: Kraven The Hunter release postponed in India (January 2025).
 - ### Upcoming: What if..? Season 3(22 dec, 2024).
 <br/>
 
