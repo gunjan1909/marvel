@@ -76,7 +76,7 @@
 - Deadpool & Wolverine
 - Agatha all along
 - Venom: The last dance
-- What if...? s3(22 dec, 2024)
+- What if...? s3
 - Marvel's Zombies (2024?)
 - Captain America: Brave New World (14 Feb, 2025)
 - Thunderbolts\* (2 May, 2025)
