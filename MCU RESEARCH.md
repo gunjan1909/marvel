@@ -77,15 +77,15 @@
 - Agatha all along
 - Venom: The last dance
 - What if...? s3
-- Marvel's Zombies (2024?)
+- Friendly Neighbourhood Spider-Man (29th January, 2025)
 - Captain America: Brave New World (14 Feb, 2025)
 - Thunderbolts\* (2 May, 2025)
 - The Fantastic Four: First Steps (25 July,2025)
 - Blade (7 November, 2025)
 - Daredevil: Born Again (2025)
+- Marvel's Zombies (??)
 - Armor Wars(??)
 - Ironheart (3 September, 2025)(tentative)
-- Spiderman freshman year (2024)
 
 ## Phase 6
 
@@ -100,7 +100,6 @@
 
 ## OTHER MOVIES/SHOWS(CURRENTLY DATES/PHASE NOT OFFICIAL, REST ALL IN RESPECTIVE PHASES ABOVE):-
 
-- spiderman sophomore year
 - wonder man
 - midnight angels (untitled/rumors)
 - eyes of wakanda
