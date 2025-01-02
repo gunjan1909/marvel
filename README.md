@@ -6,8 +6,16 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
+- ## 2025 Projects: (source ig: [comicbook](https://www.instagram.com/p/DESsOO2v0vT/))
 - ### Friendly Neighborhood Spider-Man (29th January 2025).
-- ### What if..? Season 3 all episodes streaming on Disney+.
+- ### Captain America: Brave New World (14th February 2025).
+- ### Daredevil Born Again (March, 2025).
+- ### Thunderbolts\* (6th May, 2025).
+- ### Iron Heart (24th June, 2025).
+- ### Fantastic 4 (25th July, 2025).
+- ### Eyes of Wakanda (6th August, 2025).
+- ### Marvel Zombies (3rd October, 2025).
+- ### Wonder Man (December, 2025).
 <br/>
 
 ## LATEST UPDATES:

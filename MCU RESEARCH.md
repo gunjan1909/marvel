@@ -78,14 +78,16 @@
 - Venom: The last dance
 - What if...? s3
 - Friendly Neighbourhood Spider-Man (29th January, 2025)
-- Captain America: Brave New World (14 Feb, 2025)
+- Captain America: Brave New World (14th Feb, 2025)
+- Daredevil: Born Again (March, 2025)
 - Thunderbolts\* (2 May, 2025)
-- The Fantastic Four: First Steps (25 July,2025)
-- Blade (7 November, 2025)
-- Daredevil: Born Again (2025)
-- Marvel's Zombies (??)
+- Ironheart (24th June, 2025)
+- The Fantastic Four: First Steps (25th July,2025)
+- Eyes of Wakanda (6th August, 2025)
+- Marvel's Zombies (3rd October, 2025)
+- Wonder Man (December, 2025)
+- Blade (unknown)
 - Armor Wars(??)
-- Ironheart (3 September, 2025)(tentative)
 
 ## Phase 6
 
@@ -100,9 +102,7 @@
 
 ## OTHER MOVIES/SHOWS(CURRENTLY DATES/PHASE NOT OFFICIAL, REST ALL IN RESPECTIVE PHASES ABOVE):-
 
-- wonder man
 - midnight angels (untitled/rumors)
-- eyes of wakanda
 - Nova (unknown)
 - Moon Knight s2 (unknown)
 - Eternals 2 (unknown)
@@ -110,8 +110,6 @@
 - Thor 5 (rumors)
 - Spiderman 4(rumors)
 - Vision Quest(2024-25)
-- Silver Surfer(rumors)
-- Wong Series(rumors)
 
 <hr>
 
