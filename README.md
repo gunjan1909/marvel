@@ -6,7 +6,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ## 2025 Projects: (source ig: [comicbook](https://www.instagram.com/p/DESsOO2v0vT/))
 - ### Friendly Neighborhood Spider-Man (29th January 2025).
 - ### Captain America: Brave New World (14th February 2025).
 <br/>
@@ -28,7 +27,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### Watchlist
 
 - What if..? season 3
-- Kraven The Hunter (1st January, release postponed in India)
+- Kraven The Hunter
 - Hit Monkey season 2
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
