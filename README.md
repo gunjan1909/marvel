@@ -12,6 +12,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
+- ### Fantastic 4: First Steps [trailer](https://www.youtube.com/watch?v=AzMo-FgRp64).
 - ### Daredevil Born Again [trailer](https://www.youtube.com/watch?v=7xALolZzhSM)
 - ### Captain America: Brave New World [trailer](https://youtu.be/O_A8HdCDaWM?feature=shared).
 - ### Thunderbolts\* [trailer](https://www.youtube.com/watch?v=v-94Snw-H4o).
