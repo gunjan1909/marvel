@@ -6,15 +6,14 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Friendly Neighborhood Spider-Man streaming on Disney+.
 - ### Captain America: Brave New World (14th February 2025).
+- ### Friendly Neighborhood Spider-Man streaming on Disney+.
 <br/>
 
 ## LATEST UPDATES:
 
 - ### Fantastic 4: First Steps [trailer](https://www.youtube.com/watch?v=AzMo-FgRp64).
 - ### Daredevil Born Again [trailer](https://www.youtube.com/watch?v=7xALolZzhSM)
-- ### Captain America: Brave New World [trailer](https://youtu.be/O_A8HdCDaWM?feature=shared).
 - ### Thunderbolts\* [trailer](https://www.youtube.com/watch?v=v-94Snw-H4o).
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
