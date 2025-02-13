@@ -77,8 +77,8 @@
 - Agatha all along
 - Venom: The last dance
 - What if...? s3
-- Friendly Neighbourhood Spider-Man (29th January, 2025)
-- Captain America: Brave New World (14th Feb, 2025)
+- Friendly Neighbourhood Spider-Man
+- Captain America: Brave New World
 - Daredevil: Born Again (4th March, 2025)
 - Thunderbolts\* (2 May, 2025)
 - Ironheart (24th June, 2025)
