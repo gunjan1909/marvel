@@ -8,6 +8,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ### Captain America: Brave New World released.
 - ### Friendly Neighborhood Spider-Man streaming on Disney+.
+- ### Daredevil Born Again coming soon.
 <br/>
 
 ## LATEST UPDATES:
