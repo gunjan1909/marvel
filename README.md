@@ -7,7 +7,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
 - ### Captain America: Brave New World released.
-- ### Daredevil Born Again coming soon.
+- ### Daredevil Born Again coming soon, red carpet premier done.
 - ### Friendly Neighborhood Spider-Man streaming on Disney+.
 <br/>
 
