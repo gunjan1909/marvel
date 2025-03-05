@@ -6,15 +6,15 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
+- ### Daredevil Born Again 2 episodes streaming on Disney+.
 - ### Captain America: Brave New World released.
-- ### Daredevil Born Again coming soon, red carpet premier done.
 - ### Friendly Neighborhood Spider-Man streaming on Disney+.
 <br/>
 
 ## LATEST UPDATES:
 
+- ### Daredevil Born Again 2 episodes released.
 - ### Fantastic 4: First Steps [trailer](https://www.youtube.com/watch?v=AzMo-FgRp64).
-- ### Daredevil Born Again [trailer](https://www.youtube.com/watch?v=7xALolZzhSM)
 - ### Thunderbolts\* [trailer](https://www.youtube.com/watch?v=v-94Snw-H4o).
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
@@ -29,6 +29,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - What if..? complete re-watch
 - Your Friendly Neighborhood Spider-Man
+- Daredevil re-watch
 - Kraven The Hunter
 - Hit Monkey season 2
 - Madame Web

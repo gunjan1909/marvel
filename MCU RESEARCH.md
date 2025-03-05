@@ -79,7 +79,7 @@
 - What if...? s3
 - Friendly Neighbourhood Spider-Man
 - Captain America: Brave New World
-- Daredevil: Born Again (4th March, 2025)
+- Daredevil: Born Again
 - Thunderbolts\* (2 May, 2025)
 - Ironheart (24th June, 2025)
 - The Fantastic Four: First Steps (25th July,2025)
