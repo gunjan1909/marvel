@@ -6,9 +6,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Daredevil Born Again 2 episodes streaming on Disney+.
-- ### Captain America: Brave New World released.
-- ### Friendly Neighborhood Spider-Man streaming on Disney+.
+- ### Daredevil Born Again 2 episodes streaming on Disney+.]
+- ### Next movie: Thunderbolts
 <br/>
 
 ## LATEST UPDATES:
