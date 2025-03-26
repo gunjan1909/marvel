@@ -6,14 +6,13 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Daredevil Born Again episode 5&6 releasing on 26th March, 2025.
-- ### Daredevil Born Again 4 episodes streaming on Disney+.
+- ### Daredevil Born Again 6 episodes streaming on Disney+.
 - ### Next movie: Thunderbolts\* (2nd May, 2025).
 <br/>
 
 ## LATEST UPDATES:
 
-- ### Daredevil Born Again 4 episodes released.
+- ### Daredevil Born Again 6 episodes released.
 - ### Fantastic 4: First Steps [trailer](https://www.youtube.com/watch?v=AzMo-FgRp64).
 - ### Thunderbolts\* [trailer](https://www.youtube.com/watch?v=v-94Snw-H4o).
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
