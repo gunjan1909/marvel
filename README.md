@@ -12,7 +12,9 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
-- ### Daredevil Born Again 6 episodes released.
+- ### Daredevil Born Again 7 episodes released.
+- ### Spider-Man: Brand New Day: July 31, 2026.
+- ### Spider-Man Beyond The Spiderverse: June 4, 2027.
 - ### Fantastic 4: First Steps [trailer](https://www.youtube.com/watch?v=AzMo-FgRp64).
 - ### Thunderbolts\* [trailer](https://www.youtube.com/watch?v=v-94Snw-H4o).
 - ### Avengers Doomsday [cast revealed](https://www.youtube.com/watch?v=Iy7k3aJS0Fw).

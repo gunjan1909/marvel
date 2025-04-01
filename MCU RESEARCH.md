@@ -93,8 +93,10 @@
 
 - Untitled movie? (13 February, 2026)
 - Avengers: Doomsday (1 May, 2026)
+- Spider-Man: Brand New Day (31 July, 2026)
 - Untitled movie?(battle world) (6 November, 2026)
 - Avengers : Secret Wars (7 May, 2027)
+- Spider-Man Beyond the Spiderverse (4 June, 2027)
 - Untitled movie? (23 July, 2027)
 - Untitled movie? (5 November, 2027)
 
@@ -122,7 +124,7 @@
 - Venom 2: Let there be Carnage
 - Morbius
 - Spiderman across the spiderverse
-- Spiderman beyond the spiderverse (29th March,2024)(unknown)
+- Spiderman beyond the spiderverse (4th June, 2027)
 - Madame web
 - Venom: The last dance
 - Kraven the hunter
