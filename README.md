@@ -6,13 +6,13 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Daredevil Born Again 7 episodes streaming on Disney+.
+- ### Daredevil Born Again all episodes streaming on Disney+.
 - ### Next movie: Thunderbolts\* (2nd May, 2025).
 <br/>
 
 ## LATEST UPDATES:
 
-- ### Daredevil Born Again 7 episodes released.
+- ### Daredevil Born Again s1 all episodes streaming on Disney+.
 - ### Thunderbolts\* red-carpet done.
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
@@ -29,8 +29,9 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
+- Daredevil Born Again re-watch
 - Your Friendly Neighborhood Spider-Man
-- Daredevil re-watch
+- Daredevil, Defenders re-watch
 - Kraven The Hunter
 - Hit Monkey season 2
 - Madame Web
