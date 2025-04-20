@@ -13,10 +13,10 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - ### Daredevil Born Again s1 all episodes streaming on Disney+.
-- ### Thunderbolts\* red-carpet done.
+- ### Fantastic 4: First Steps first official [trailer](https://youtu.be/pAsmrKyMqaA?feature=shared).
+- ### Thunderbolts final [trailer](https://youtu.be/-sAOWhvheK8?feature=shared).
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
-- ### Fantastic 4: First Steps [trailer](https://www.youtube.com/watch?v=AzMo-FgRp64).
 - ### Avengers Doomsday [cast revealed](https://www.youtube.com/watch?v=Iy7k3aJS0Fw).
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
