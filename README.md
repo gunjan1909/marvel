@@ -6,15 +6,15 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
+- ### Upcoming: Thunderbolts\* (2nd May, 2025).
 - ### Daredevil Born Again all episodes streaming on Disney+.
-- ### Next movie: Thunderbolts\* (2nd May, 2025).
 <br/>
 
 ## LATEST UPDATES:
 
+- ### Thunderbolts\* final [trailer](https://youtu.be/-sAOWhvheK8?feature=shared). Releasing soon.
 - ### Daredevil Born Again s1 all episodes streaming on Disney+.
 - ### Fantastic 4: First Steps first official [trailer](https://youtu.be/pAsmrKyMqaA?feature=shared).
-- ### Thunderbolts final [trailer](https://youtu.be/-sAOWhvheK8?feature=shared).
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
 - ### Avengers Doomsday [cast revealed](https://www.youtube.com/watch?v=Iy7k3aJS0Fw).
@@ -31,13 +31,9 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - Daredevil Born Again re-watch
 - Your Friendly Neighborhood Spider-Man
-- Daredevil, Defenders re-watch
-- Kraven The Hunter
+- Daredevil, Punisher, Defenders re-watch
 - Hit Monkey season 2
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
 - Morbius
-- Warewolf by Night
 - Blade, Blade II, Blade Trinity
-- Daredevil 2003
-- Elektra 2005
