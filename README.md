@@ -6,8 +6,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ### Thunderbolts\* released.
-- ### Daredevil Born Again all episodes streaming on Disney+.
 <br/>
 
 ## LATEST UPDATES:
@@ -30,6 +28,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### Watchlist
 
 - Thunderbolts\*
+- Captain America: Brave new world re-watch
 - Daredevil Born Again re-watch
 - Your Friendly Neighborhood Spider-Man
 - Daredevil, Punisher, Defenders re-watch
