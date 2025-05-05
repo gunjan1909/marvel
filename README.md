@@ -27,9 +27,9 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
-- Thunderbolts\*
 - Captain America: Brave new world re-watch
 - Daredevil Born Again re-watch
+- Thunderbolts\* re-watch
 - Your Friendly Neighborhood Spider-Man
 - Daredevil, Punisher, Defenders re-watch
 - Hit Monkey season 2
