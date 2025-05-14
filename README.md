@@ -10,6 +10,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
+- ### Ironheart [trailer](https://youtu.be/WpW36ldAqnM?feature=shared).
 - ### Thunderbolts\* released. Final [trailer](https://youtu.be/-sAOWhvheK8?feature=shared).
 - ### Daredevil Born Again s1 all episodes streaming on Disney+.
 - ### Fantastic 4: First Steps first official [trailer](https://youtu.be/pAsmrKyMqaA?feature=shared).
