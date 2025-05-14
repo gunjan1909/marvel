@@ -6,11 +6,13 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
+- ## Upcoming Marvel Project: Ironheart : 24th June, 2025
+
 <br/>
 
 ## LATEST UPDATES:
 
-- ### Ironheart [trailer](https://youtu.be/WpW36ldAqnM?feature=shared).
+- ### Ironheart [trailer](https://youtu.be/WpW36ldAqnM?feature=shared). Comes out on 24th June, 2025.
 - ### Thunderbolts\* released. Final [trailer](https://youtu.be/-sAOWhvheK8?feature=shared).
 - ### Daredevil Born Again s1 all episodes streaming on Disney+.
 - ### Fantastic 4: First Steps first official [trailer](https://youtu.be/pAsmrKyMqaA?feature=shared).
