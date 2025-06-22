@@ -13,8 +13,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - ### Ironheart [trailer](https://youtu.be/WpW36ldAqnM?feature=shared). Comes out on 24th June, 2025.
-- ### Thunderbolts\* released. Final [trailer](https://youtu.be/-sAOWhvheK8?feature=shared).
-- ### Daredevil Born Again s1 all episodes streaming on Disney+.
 - ### Fantastic 4: First Steps first official [trailer](https://youtu.be/pAsmrKyMqaA?feature=shared).
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
@@ -30,7 +28,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
-- Captain America: Brave new world re-watch
 - Daredevil Born Again re-watch
 - Thunderbolts\* re-watch
 - Your Friendly Neighborhood Spider-Man
