@@ -6,13 +6,12 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ## Upcoming Marvel Project: Ironheart : 24th June, 2025
+- ## Ironheart : streaming on Disney+.
 
 <br/>
 
 ## LATEST UPDATES:
 
-- ### Ironheart [trailer](https://youtu.be/WpW36ldAqnM?feature=shared). Comes out on 24th June, 2025.
 - ### Fantastic 4: First Steps first official [trailer](https://youtu.be/pAsmrKyMqaA?feature=shared).
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
@@ -28,6 +27,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
+- Ironheart
 - Daredevil Born Again re-watch
 - Thunderbolts\* re-watch
 - Your Friendly Neighborhood Spider-Man

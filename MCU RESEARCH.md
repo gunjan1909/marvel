@@ -81,7 +81,7 @@
 - Captain America: Brave New World
 - Daredevil: Born Again
 - Thunderbolts\*
-- Ironheart (24th June, 2025)
+- Ironheart
 - The Fantastic Four: First Steps (25th July,2025)
 - Eyes of Wakanda (6th August, 2025)
 - Marvel's Zombies (3rd October, 2025)
