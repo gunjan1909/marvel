@@ -27,6 +27,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### Watchlist
 
+- Fantastic 4: First Steps
+- f1, superman (non-marvel)
 - Ironheart
 - Daredevil Born Again re-watch
 - Thunderbolts\* re-watch
