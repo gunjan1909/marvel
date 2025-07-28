@@ -82,7 +82,7 @@
 - Daredevil: Born Again
 - Thunderbolts\*
 - Ironheart
-- The Fantastic Four: First Steps (25th July,2025)
+- The Fantastic Four: First Steps
 - Eyes of Wakanda (6th August, 2025)
 - Marvel's Zombies (3rd October, 2025)
 - Wonder Man (December, 2025)
