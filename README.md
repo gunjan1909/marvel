@@ -12,7 +12,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
-- ### Eyes of wakanda streaming on Disnet+.
+- ### Eyes of wakanda streaming on Disney+.
+- ### Marvel Zombies [trailer](https://youtu.be/twHYF506-9Y?feature=shared).
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Fantastic 4: First Steps released in theatres on 25th July, 2025.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
