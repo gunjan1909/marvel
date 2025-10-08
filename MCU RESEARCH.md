@@ -84,7 +84,7 @@
 - Ironheart
 - The Fantastic Four: First Steps
 - Eyes of Wakanda
-- Marvel's Zombies (3rd October, 2025)
+- Marvel's Zombies
 - Wonder Man (December, 2025)
 - Blade (unknown)
 - Armor Wars(??)

@@ -6,18 +6,18 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ## Refer this for more detailed info: [Marvel Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
-- ## Eyes of Wakanda streaming on Disney+.
+- ## Marvel Zombies streaming on Disney+.
 
 <br/>
 
 ## LATEST UPDATES:
 
+- ### Marvel Zombies [trailer](https://youtu.be/twHYF506-9Y?feature=shared) streaming on Disney+.
 - ### Eyes of wakanda streaming on Disney+.
-- ### Marvel Zombies [trailer](https://youtu.be/twHYF506-9Y?feature=shared).
 - ### Spider-Man: Brand New Day: July 31, 2026.
-- ### Fantastic 4: First Steps released in theatres on 25th July, 2025.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
 - ### Avengers Doomsday [cast revealed](https://www.youtube.com/watch?v=Iy7k3aJS0Fw).
+- ### Fantastic 4: First Steps released.
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
 
@@ -32,6 +32,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - Fantastic 4: First Steps
 - f1, superman (non-marvel)
 - Ironheart
+- Marvel's Zombies
 - Eyes of Wakanda
 - Daredevil Born Again re-watch
 - Thunderbolts\* re-watch
