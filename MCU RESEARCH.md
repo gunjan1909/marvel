@@ -72,7 +72,7 @@
 - The Marvels
 - What if...? s2
 - Echo
-- Xmen 97
+- X-men'97 S1
 - Deadpool & Wolverine
 - Agatha all along
 - Venom: The last dance
@@ -84,8 +84,12 @@
 - Ironheart
 - The Fantastic Four: First Steps
 - Eyes of Wakanda
-- Marvel's Zombies (3rd October, 2025)
-- Wonder Man (December, 2025)
+- Marvel's Zombies
+- Wonder Man (January 27, 2026)
+- Daredevil: Born Again S2 (March 2026)
+- X-men'97 S2 (Summer 2026)
+- Friendly Neighbourhood Spider-Man S2 (Fall 2026)
+- Vision Quest (2026)
 - Blade (unknown)
 - Armor Wars(??)
 
@@ -110,8 +114,6 @@
 - Eternals 2 (unknown)
 - Shang Chi 2 (rumors)
 - Thor 5 (rumors)
-- Spiderman 4(rumors)
-- Vision Quest(2024-25)
 
 <hr>
 
