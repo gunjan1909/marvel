@@ -15,6 +15,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
 - ### Avengers Doomsday [cast revealed](https://www.youtube.com/watch?v=Iy7k3aJS0Fw).
+- ### Fantastic 4: First Steps released.
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
 
@@ -29,6 +30,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - Fantastic 4: First Steps
 - f1, superman (non-marvel)
 - Ironheart
+- Marvel's Zombies
 - Eyes of Wakanda
 - Marvel's Zombies
 - Your Friendly Neighborhood Spider-Man
