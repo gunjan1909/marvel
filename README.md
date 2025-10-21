@@ -14,29 +14,26 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - ### Marvel Zombies [trailer](https://youtu.be/twHYF506-9Y?feature=shared).
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
-- ### Avengers Doomsday [cast revealed](https://www.youtube.com/watch?v=Iy7k3aJS0Fw).
 - ### Fantastic 4: First Steps released.
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
 
 <br/>
-
-## MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE AND SOME PROJECT PRODUCTION IS GETTING DELAYED BECAUSE OF SAG-AFTRA STRIKE.
+## MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
 
 #### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania).
 
 #### My Watchlist
 
 - Fantastic 4: First Steps
-- f1, superman (non-marvel)
+- f1, tron ares, superman(non-marvel)
 - Ironheart
 - Marvel's Zombies
 - Eyes of Wakanda
-- Marvel's Zombies
+- What If...? season 3
 - Your Friendly Neighborhood Spider-Man
 - Hit Monkey season 2
 - Daredevil Born Again re-watch
-- Thunderbolts\* re-watch
 - Daredevil, Punisher, Defenders re-watch
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
