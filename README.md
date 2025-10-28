@@ -18,8 +18,17 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - ### Fantastic 4: First Steps released.
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
-
-<br/>
+- ## Upcoming 2026 projects:
+  - ### Movies
+    - Spider-Man: Brand New Day: July 31, 2026
+    - Avengers: Doomsday: December 18, 2026
+  - ### TV shows and specials
+    - Wonder Man: January 27, 2026
+    - Daredevil: Born Again Season 2: March 2026
+    - X-Men '97 Season 2: Summer 2026
+    - Vision Quest: 2026
+    - Your Friendly Neighborhood Spider-Man Season 2: Fall 2026
+    - The Punisher Special: 2026
 
 ## MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP FOR PHASE 5 & 6 AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE AND SOME PROJECT PRODUCTION IS GETTING DELAYED BECAUSE OF SAG-AFTRA STRIKE.
 
@@ -28,7 +37,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### My Watchlist
 
 - Fantastic 4: First Steps
-- f1, superman (non-marvel)
+- f1, ~superman~ (non-marvel)
 - Ironheart
 - Marvel's Zombies
 - Eyes of Wakanda
