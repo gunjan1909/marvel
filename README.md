@@ -10,11 +10,11 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
-- ### Avengers Doomsday trailer coming out with Avatar 3.
-- ### Eyes of Wakanda and Marvel's Zombies streaming on Disney+.
+- ### Wonder Man [trailer](https://youtu.be/wHuWmjXsReU?si=lAnVhJpC5_9k4Zwe) out.
+- ### Avengers Doomsday 4 teasers out.
+- ### Fantastic 4, Eyes of Wakanda and Marvel's Zombies streaming on Disney+.
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Spider-Man Beyond The Spiderverse: June 4, 2027.
-- ### Fantastic 4: First Steps released.
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
 - ## Upcoming 2026 projects:
@@ -36,7 +36,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### My Watchlist
 
 - Fantastic 4: First Steps
-- f1, tron ares, ~superman(non-marvel)~
+- f1, tron ares
 - Ironheart
 - Marvel's Zombies
 - Eyes of Wakanda
