@@ -10,7 +10,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
-- ### Wonder Man [trailer](https://youtu.be/wHuWmjXsReU?si=lAnVhJpC5_9k4Zwe) out.
+- ### Wonder Man streaming on Disney+.
 - ### Avengers Doomsday 4 teasers out.
 - ### Fantastic 4, Eyes of Wakanda and Marvel's Zombies streaming on Disney+.
 - ### Spider-Man: Brand New Day: July 31, 2026.
@@ -36,6 +36,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### My Watchlist
 
 - Fantastic 4: First Steps
+- Wonder Man
 - f1, tron ares
 - Ironheart
 - Marvel's Zombies

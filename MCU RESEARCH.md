@@ -85,7 +85,7 @@
 - The Fantastic Four: First Steps
 - Eyes of Wakanda
 - Marvel's Zombies
-- Wonder Man (January 27, 2026)
+- Wonder Man
 - Daredevil: Born Again S2 (March 2026)
 - X-men'97 S2 (Summer 2026)
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
