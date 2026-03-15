@@ -86,7 +86,7 @@
 - Eyes of Wakanda
 - Marvel's Zombies
 - Wonder Man
-- Daredevil: Born Again S2 (March 2026)
+- Daredevil: Born Again S2
 - X-men'97 S2 (Summer 2026)
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
 - Vision Quest (2026)
