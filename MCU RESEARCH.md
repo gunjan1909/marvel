@@ -86,10 +86,10 @@
 - Eyes of Wakanda
 - Marvel's Zombies
 - Wonder Man
-- Daredevil: Born Again S2
+- Daredevil: Born Again S2 (24th March, 2026)
 - X-men'97 S2 (Summer 2026)
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
-- Vision Quest (2026)
+- Vision Quest (late 2026)
 - Blade (unknown)
 - Armor Wars(??)
 
@@ -126,6 +126,7 @@
 - Venom 2: Let there be Carnage
 - Morbius
 - Spiderman across the spiderverse
+- Spider-man Noir (Amazon Prime Video) (25th May, 2026)
 - Spiderman beyond the spiderverse (4th June, 2027)
 - Madame web
 - Venom: The last dance
