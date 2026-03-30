@@ -10,8 +10,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
+- ### Daredevil Born Again Season 2: streaming on Disney+.
 - ### Spider-Man Brand New Day trailer released: [trailer](https://youtu.be/8TZMtslA3UY?si=toFgofjeJUFsvv6P)
-- ### Daredevil Born Again Season 2: streaming from 24th March 2026.
 - ### Wonder Man streaming on Disney+.
 - ### Avengers Doomsday 4 teasers out.
 - ### Spider-Man: Brand New Day: July 31, 2026.
@@ -22,7 +22,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
     - Spider-Man: Brand New Day: July 31, 2026
     - Avengers: Doomsday: December 18, 2026
   - ### TV shows and specials
-    - Daredevil: Born Again Season 2: 24th March 2026
+    - Daredevil: Born Again Season 2: Streaming now
+    - Punisher: The Last Kill: May 12, 2026
     - X-Men '97 Season 2: Summer 2026
     - Vision Quest: 2026
     - Your Friendly Neighborhood Spider-Man Season 2: Fall 2026
@@ -35,6 +36,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 #### My Watchlist
 
 - Wonder Man
+- Daredevil Born Again season 2
 - f1, tron ares
 - Ironheart
 - Marvel's Zombies
