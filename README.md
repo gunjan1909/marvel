@@ -11,8 +11,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - ### Spider-Man Brand New Day trailer released: [trailer](https://youtu.be/8TZMtslA3UY?si=toFgofjeJUFsvv6P)
-- ### Daredevil Born Again Season 2: streaming from 24th March 2026.
-- ### Wonder Man streaming on Disney+.
+- ### Daredevil Born Again Season 2: streaming on Disney+.
+- ### Punisher: One Last Kill: May 12, 2026.
 - ### Avengers Doomsday 4 teasers out.
 - ### Spider-Man: Brand New Day: July 31, 2026.
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
@@ -22,11 +22,11 @@ All marvel movies, shows and everything from past present and future: [Click Her
     - Spider-Man: Brand New Day: July 31, 2026
     - Avengers: Doomsday: December 18, 2026
   - ### TV shows and specials
-    - Daredevil: Born Again Season 2: 24th March 2026
+    - Daredevil: Born Again Season 2: (streaming now)
     - X-Men '97 Season 2: Summer 2026
     - Vision Quest: 2026
     - Your Friendly Neighborhood Spider-Man Season 2: Fall 2026
-    - The Punisher Special: 2026
+    - The Punisher: One Last Kill: May 12, 2026
 
 ## MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
 
@@ -34,8 +34,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### My Watchlist
 
+- Daredevil: Born Again season 2
 - Wonder Man
-- f1, tron ares
 - Ironheart
 - Marvel's Zombies
 - Eyes of Wakanda
@@ -43,7 +43,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - Your Friendly Neighborhood Spider-Man
 - Hit Monkey season 2
 - Daredevil Born Again re-watch
-- Daredevil, Punisher, Defenders re-watch
+- f1, tron ares
+- Punisher re-watch
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
 - Morbius

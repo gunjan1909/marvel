@@ -86,7 +86,8 @@
 - Eyes of Wakanda
 - Marvel's Zombies
 - Wonder Man
-- Daredevil: Born Again S2 (24th March, 2026)
+- Daredevil: Born Again S2 (streaming on Disney+)
+- The Punisher: One Last Kill (May 12, 2026)
 - X-men'97 S2 (Summer 2026)
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
 - Vision Quest (late 2026)
@@ -95,7 +96,6 @@
 
 ## Phase 6
 
-- Untitled movie? (13 February, 2026)
 - Avengers: Doomsday (1 May, 2026)
 - Spider-Man: Brand New Day (31 July, 2026)
 - Untitled movie?(battle world) (6 November, 2026)
