@@ -12,7 +12,6 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 - ### Daredevil Born Again Season 2: streaming on Disney+.
 - ### Spider-Man Brand New Day trailer released: [trailer](https://youtu.be/8TZMtslA3UY?si=toFgofjeJUFsvv6P)
-- ### Daredevil Born Again Season 2: streaming on Disney+.
 - ### Punisher: One Last Kill: May 12, 2026.
 - ### Avengers Doomsday 4 teasers out.
 - ### Spider-Man: Brand New Day: July 31, 2026.
@@ -35,17 +34,16 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### My Watchlist
 
-- Daredevil: Born Again season 2
+- Daredevil: Born Again full re-watch
 - Wonder Man
-- Ironheart
 - Marvel's Zombies
 - Eyes of Wakanda
 - What If...? season 3
+- Ironheart
 - Your Friendly Neighborhood Spider-Man
 - Hit Monkey season 2
-- Daredevil Born Again re-watch
-- f1, tron ares
 - Punisher re-watch
+- f1, tron ares
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
 - Morbius
