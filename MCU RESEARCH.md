@@ -90,7 +90,7 @@
 - The Punisher: One Last Kill
 - X-men'97 S2 (Summer 2026)
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
-- Vision Quest (late 2026)
+- Vision Quest (14th October, 2026)
 - Blade (unknown)
 - Armor Wars(??)
 

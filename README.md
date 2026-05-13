@@ -11,7 +11,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 ## LATEST UPDATES:
 
 - ### Daredevil Born Again Season 2: streaming on Disney+.
-- ### Punisher: One Last Kill: streaming on Disney+,May 12, 2026.
+- ### Punisher: One Last Kill: streaming on Disney+.
 - ### Spider-Man Brand New Day trailer released: [trailer](https://youtu.be/8TZMtslA3UY?si=toFgofjeJUFsvv6P)
 - ### Avengers Doomsday 4 teasers out.
 - ### Spider-Man: Brand New Day: July 31, 2026.
@@ -23,10 +23,10 @@ All marvel movies, shows and everything from past present and future: [Click Her
     - Avengers: Doomsday: December 18, 2026
   - ### TV shows and specials
     - Daredevil: Born Again Season 2: (streaming now)
+    - The Punisher: One Last Kill: (streaming now)
     - X-Men '97 Season 2: Summer 2026
-    - Vision Quest: 2026
+    - Vision Quest: October 14, 2026
     - Your Friendly Neighborhood Spider-Man Season 2: Fall 2026
-    - The Punisher: One Last Kill: May 12, 2026
 
 ## MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
 
