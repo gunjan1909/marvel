@@ -126,7 +126,7 @@
 - Venom 2: Let there be Carnage
 - Morbius
 - Spiderman across the spiderverse
-- Spider-man Noir (Amazon Prime Video) (25th May, 2026)
+- Spider-man Noir (Amazon Prime Video) (27th May, 2026)
 - Spiderman beyond the spiderverse (4th June, 2027)
 - Madame web
 - Venom: The last dance

@@ -24,6 +24,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
   - ### TV shows and specials
     - Daredevil: Born Again Season 2: (streaming now)
     - The Punisher: One Last Kill: (streaming now)
+    - Spider-Man Noir (Amazon Prime) (27th May, 2026)
     - X-Men '97 Season 2: Summer 2026
     - Vision Quest: October 14, 2026
     - Your Friendly Neighborhood Spider-Man Season 2: Fall 2026
@@ -34,7 +35,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### My Watchlist
 
-- Daredevil: Born Again full re-watch
+- Daredevil: Born Again full re-watch ⌛️
+- Punisher re-watch
 - Punisher: One Last Kill
 - Wonder Man
 - Marvel's Zombies
@@ -42,8 +44,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - What If...? season 3
 - Ironheart
 - Your Friendly Neighborhood Spider-Man
+- Spider-Man Noir
 - Hit Monkey season 2
-- Punisher re-watch
 - f1, tron ares
 - Madame Web
 - X-Men'97(old seasons, new rewatch)
