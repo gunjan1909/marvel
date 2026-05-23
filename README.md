@@ -35,9 +35,9 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### My Watchlist
 
-- Daredevil: Born Again full re-watch ⌛️
-- Punisher re-watch
-- Punisher: One Last Kill
+- Daredevil: Born Again full re-watch ✅
+- Punisher re-watch ⌛️
+- Punisher: One Last Kill ⌛️
 - Wonder Man
 - Marvel's Zombies
 - Eyes of Wakanda
