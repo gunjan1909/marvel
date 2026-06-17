@@ -89,6 +89,7 @@
 - Daredevil: Born Again S2
 - The Punisher: One Last Kill
 - X-men'97 S2 (1st July, 2026)
+- Spider-Man: Brand New Day (31 July, 2026)
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
 - Vision Quest (14th October, 2026)
 - Blade (unknown)
@@ -96,7 +97,6 @@
 
 ## Phase 6
 
-- Spider-Man: Brand New Day (31 July, 2026)
 - Avengers: Doomsday (18th December, 2026)
 - Untitled movie?(battle world) (6 November, 2026)
 - Avengers : Secret Wars (7 May, 2027)
