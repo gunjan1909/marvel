@@ -23,8 +23,8 @@ All marvel movies, shows and everything from past present and future: [Click Her
   - ### TV shows and specials
     - Daredevil: Born Again Season 2: (streaming now)
     - The Punisher: One Last Kill: (streaming now)
+    - X-Men '97 Season 2 (1st July, 2026) [trailer](https://youtu.be/mfUtseK27pc?si=ARIt_gAh7NO7gxo2)
     - Spider-Man Noir (streaming now)
-    - X-Men '97 Season 2 (1st July, 2026)
     - Vision Quest: October 14, 2026
     - Your Friendly Neighborhood Spider-Man Season 2: Fall 2026
 
@@ -39,12 +39,12 @@ All marvel movies, shows and everything from past present and future: [Click Her
 - Marvel's Zombies
 - Eyes of Wakanda
 - What If...? season 3
+- Spider-Man Noir
+- X-Men'97(old seasons, new rewatch)
 - Ironheart
 - Your Friendly Neighborhood Spider-Man
-- Spider-Man Noir
 - Hit Monkey season 2
-- f1, tron ares
 - Madame Web
-- X-Men'97(old seasons, new rewatch)
+- f1, tron ares
 - Morbius
 - Blade, Blade II, Blade Trinity
