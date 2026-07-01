@@ -88,7 +88,7 @@
 - Wonder Man
 - Daredevil: Born Again S2
 - The Punisher: One Last Kill
-- X-men'97 S2 (1st July, 2026)
+- X-men'97 S2
 - Spider-Man: Brand New Day (31 July, 2026)
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
 - Vision Quest (14th October, 2026)
