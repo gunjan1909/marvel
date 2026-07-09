@@ -32,6 +32,7 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 #### My Watchlist
 
+- X-men '97 season 2
 - Wonder Man
 - Marvel's Zombies
 - Eyes of Wakanda
