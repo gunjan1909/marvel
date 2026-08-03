@@ -89,7 +89,7 @@
 - Daredevil: Born Again S2
 - The Punisher: One Last Kill
 - X-men'97 S2
-- Spider-Man: Brand New Day (31 July, 2026)
+- Spider-Man: Brand New Day
 - Friendly Neighbourhood Spider-Man S2 (Fall 2026)
 - Vision Quest (14th October, 2026)
 - Blade (unknown)
@@ -150,6 +150,9 @@
 - Daredevil, Season 3
 - The Punisher, Season 2
 - Jessica Jones, Season 3
+- Daredevil Born Again, Season 1
+- Daredevil Born Again, Season 2
+- The Punisher: One Last Kill
 
 <hr>
 
@@ -171,7 +174,7 @@
 - X-Men'97
 - Deadpool & Wolverine
 
-## OTHERS (NON CANON YET)
+## OTHERS
 
 - Agents of SHIELD - PERSONAL FAVOURITE
 - Agent Carter
@@ -182,7 +185,7 @@
 - The Gifted
 - Legion
 
-## OTHER MOVIES
+## OTHER OLDER MOVIES
 
 - Fantastic 4 (2005)
 - Fantastic 4: Rise of Silver surfer (2007)

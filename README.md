@@ -10,13 +10,12 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## LATEST UPDATES:
 
-- ### Daredevil Born Again Season 2 and Punisher: One Last Kill: streaming on Disney+.
-- ### Spider-Man Brand New Day trailer released: [trailer](https://youtu.be/3gAlCLVpePk?si=CkhLyYapUBollnE_).
+- ### Spider-Man Brand New Day released.
 - ### Dates changed: please refer to [MCU RESEARCH.md](./MCU%20RESEARCH.md).
 - ### Some 2025-27 info updated in the repository(phase 6).
 - ## 2026 projects:
   - ### Movies
-    - Spider-Man: Brand New Day: July 31, 2026
+    - Spider-Man: Brand New Day: (released)
     - Avengers: Doomsday: December 18, 2026
   - ### TV shows and specials
     - Daredevil: Born Again Season 2: (streaming now)
@@ -28,17 +27,14 @@ All marvel movies, shows and everything from past present and future: [Click Her
 
 ## MARVEL REPORTEDLY RE-EVALUATING ITS LINEUP AND FEW PROJECTS POSTPONED SO DATA IN THIS REPOSITORY MIGHT NOT BE ACCURATE.
 
-#### NOTE: PHASE 4 HAS OFFICIALLY ENDED AS OF 25TH NOVEMBER 2022, PHASE 5 OFFICIALLY STARTED AS OF 6TH FEBRUARY 2023 (Ant-Man and the Wasp: Quantumania).
-
 #### My Watchlist
 
-- X-men '97 season 2
+- X-men '97 season 2 ⏳
 - Wonder Man
 - Marvel's Zombies
 - Eyes of Wakanda
 - What If...? season 3
 - Spider-Man Noir
-- X-Men'97(old seasons, new rewatch)
 - Ironheart
 - Your Friendly Neighborhood Spider-Man
 - Hit Monkey season 2
